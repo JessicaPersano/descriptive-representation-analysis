@@ -1,6 +1,6 @@
-# Descriptive Representation and Candidate Emergence
+# PS170A: Descriptive Representation and Candidate Emergence
 
-This repository contains the data and R code for analyzing whether the demographic characteristics of state legislators elected in 2022 influenced the demographic composition of candidate pools in 2024 state house races.
+This repository contains the data and R code for our PS170A final project, which analyzes whether the demographic characteristics of state legislators elected in 2022 influenced the demographic composition of candidate pools in 2024 state house races.
 
 ## Research Question
 
