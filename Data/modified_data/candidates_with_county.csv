@@ -1,0 +1,808 @@
+state,statehouse_district_number,full_name,first_name,middle_name,last_name,suffix,party_code,incumbent_status,withdrew_status,disqualified_status,notes,district_name,county_name,county_fips
+NV,1,Garland Brinkley,Garland,NA,Brinkley,NA,100,0,0,0,NA,State House District 1,Clark,003
+NV,1,Daniele Monroe-Moreno,Daniele,NA,Monroe-Moreno,NA,200,1,0,0,NA,State House District 1,Clark,003
+NV,2,Heidi Kasama,Heidi,NA,Kasama,NA,100,1,0,0,NA,State House District 2,Clark,003
+NV,2,Ron Nelsen,Ron,NA,Nelsen,NA,200,0,0,0,NA,State House District 2,Clark,003
+NV,3,"Maximillian ""Millian"" Quinteros",Maximillian,Millian,Quinteros,NA,300,0,1,0,Libertarian Party,State House District 3,Clark,003
+NV,3,Michele Rizza,Michele,NA,Rizza,NA,100,0,0,0,NA,State House District 3,Clark,003
+NV,3,Selena Elizabeth Torres,Selena,Elizabeth,Torres,NA,200,1,0,0,NA,State House District 3,Clark,003
+NV,4,Lisa Cole,Lisa,NA,Cole,NA,100,0,0,0,NA,State House District 4,Clark,003
+NV,4,Ryan Hampton,Ryan,NA,Hampton,NA,200,0,0,0,NA,State House District 4,Clark,003
+NV,5,Alan Bigelow,Alan,NA,Bigelow,NA,100,0,0,0,NA,State House District 5,Clark,003
+NV,5,Kelly Quinn,Kelly,NA,Quinn,NA,100,0,0,0,NA,State House District 5,Clark,003
+NV,5,Brittney M. Miller,Brittney,M.,Miller,NA,200,1,0,0,NA,State House District 5,Clark,003
+NV,5,Ronald Morgan,Ronald,NA,Morgan,NA,300,0,0,0,Libertarian Party,State House District 5,Clark,003
+NV,6,Jovan Alexander Jackson,Jovan,Alexander,Jackson,NA,200,0,0,0,NA,State House District 6,Clark,003
+NV,6,"Derek A. ""Bish"" Rimson",Derek,"A ""Bish""",Rimson,NA,200,0,0,0,NA,State House District 6,Clark,003
+NV,6,Geraldine Lewis,Geraldine,NA,Lewis,NA,100,0,1,0,NA,State House District 6,Clark,003
+NV,6,"Nephi ""Khaliki"" Oliva",Nephi,Khaliki,Oliva,NA,100,0,0,0,NA,State House District 6,Clark,003
+NV,6,"Walter ""Boo"" Jones III",Walter,Boo,Jones,III,300,0,0,0,No Political Party,State House District 6,Clark,003
+NV,7,James M. Fennell,James,M.,Fennell,NA,200,0,0,0,NA,State House District 7,Clark,003
+NV,7,Tanya Flanagan,Tanya,NA,Flanagan,NA,200,0,0,0,NA,State House District 7,Clark,003
+NV,8,Kelly Chapman,Kelly,NA,Chapman,NA,100,0,0,0,NA,State House District 8,Clark,003
+NV,8,Duy Nguyen,Duy,NA,Nguyen,NA,200,1,0,0,NA,State House District 8,Clark,003
+NV,9,Adeline Celio,Adeline,NA,Celio,NA,200,0,0,0,NA,State House District 9,Clark,003
+NV,9,Steve Yeager,Steve,NA,Yeager,NA,200,1,0,0,NA,State House District 9,Clark,003
+NV,9,Erica A. Neely,Erica,A.,Neely,NA,100,0,0,0,NA,State House District 9,Clark,003
+NV,10,Kyle Greenwood,Kyle,NA,Greenwood,NA,200,0,0,0,NA,State House District 10,Clark,003
+NV,10,Venise L. Karris,Venise,L.,Karris,NA,200,0,0,0,NA,State House District 10,Clark,003
+NV,10,Val Thomason,Val,NA,Thomason,NA,200,0,0,0,NA,State House District 10,Clark,003
+NV,10,Sean Moore,Sean,NA,Moore,NA,300,0,0,0,Libertarian Party,State House District 10,Clark,003
+NV,11,Thomas Lambert,Thomas,NA,Lambert,NA,200,0,0,0,NA,State House District 11,Clark,003
+NV,11,Cinthia Moore,Cinthia,NA,Moore,NA,200,0,0,0,NA,State House District 11,Clark,003
+NV,11,Jeffrey A. Lustick,Jeffrey,A.,Lustick,NA,100,0,0,0,NA,State House District 11,Clark,003
+NV,11,Anthony Manesa,Anthony,NA,Manesa,NA,100,0,0,0,NA,State House District 11,Clark,003
+NV,12,Max Carter II,Max,NA,Carter,II,200,1,0,0,NA,State House District 12,Clark,003
+NV,12,Nancy S. Roecker,Nancy,S.,Roecker,NA,100,0,0,0,NA,State House District 12,Clark,003
+NV,12,Al Rojas,Al,NA,Rojas,NA,100,0,0,0,NA,State House District 12,Clark,003
+NV,13,Daniel Andrews,Daniel,NA,Andrews,NA,200,0,0,0,NA,State House District 13,Clark,003
+NV,13,Brian Hibbetts,Brian,NA,Hibbetts,NA,100,1,0,0,NA,State House District 13,Clark,003
+NV,14,Erica Mosca,Erica,NA,Mosca,NA,200,1,0,0,NA,State House District 14,Clark,003
+NV,15,Melissa Lynn Spence,Melissa,Lynn,Spence,NA,100,0,0,0,NA,State House District 15,Clark,003
+NV,15,Howard Watts,Howard,NA,Watts,NA,200,1,0,0,NA,State House District 15,Clark,003
+NV,15,Jordy Prado,Jordy,NA,Prado,NA,300,0,0,0,Libertarian Party,State House District 15,Clark,003
+NV,16,Eva Olivia Chase,Eva,Olivia,Chase,NA,200,0,0,0,NA,State House District 16,Clark,003
+NV,16,Cecelia González,Cecelia,NA,González,NA,200,1,0,0,NA,State House District 16,Clark,003
+NV,16,Benjamin M. Donlon,Benjamin,M.,Donlon,NA,100,0,0,0,NA,State House District 16,Clark,003
+NV,16,Socorro Keenan,Socorro,NA,Keenan,NA,100,0,0,0,NA,State House District 16,Clark,003
+NV,16,James William Neville,James,William,Neville,NA,100,0,0,0,NA,State House District 16,Clark,003
+NV,16,Jose Pena,Jose,NA,Pena,NA,300,0,0,0,Libertarian Party,State House District 16,Clark,003
+NV,17,Linda F. Hunt,Linda,F.,Hunt,NA,200,0,0,0,NA,State House District 17,Clark,003
+NV,17,Mishon D. Montgomery,Mishon,D.,Montgomery,NA,200,0,0,0,NA,State House District 17,Clark,003
+NV,17,Chauntille Roberts,Chauntille,NA,Roberts,NA,200,0,0,0,NA,State House District 17,Clark,003
+NV,17,Robert J. Olson,Robert,J.,Olson,NA,100,0,0,0,NA,State House District 17,Clark,003
+NV,18,"Antario ""Tiger"" Brown",Antario,Tiger,Brown,NA,100,0,0,0,NA,State House District 18,Clark,003
+NV,18,Venicia Considine,Venicia,NA,Considine,NA,200,1,0,0,NA,State House District 18,Clark,003
+NV,19,"Thaddeus ""Toby"" Yurek",Thaddeus,Toby,Yurek,NA,100,1,0,0,NA,State House District 19,Clark,003
+NV,20,David Orentlicher,David,NA,Orentlicher,NA,200,1,0,0,NA,State House District 20,Clark,003
+NV,20,Stan Vaughan,Stan,NA,Vaughan,NA,100,0,0,0,NA,State House District 20,Clark,003
+NV,21,April Arndt,April,NA,Arndt,NA,100,0,0,0,NA,State House District 21,Clark,003
+NV,21,Jon Petrick,Jon,NA,Petrick,NA,100,0,0,0,NA,State House District 21,Clark,003
+NV,21,Elaine Marzola,Elaine,NA,Marzola,NA,200,1,0,0,NA,State House District 21,Clark,003
+NV,22,Melissa Hardy,Melissa,NA,Hardy,NA,100,1,0,0,NA,State House District 22,Clark,003
+NV,23,Danielle Gallant,Danielle,NA,Gallant,NA,100,1,0,0,NA,State House District 23,Clark,003
+NV,24,Michael Bellaty,Michael,NA,Bellaty,NA,200,0,1,0,NA,State House District 24,Washoe,031
+NV,24,Erica Roth,Erica,NA,Roth,NA,200,0,0,0,NA,State House District 24,Washoe,031
+NV,24,"Terisia ""Teri"" Kolesnick",Terisia,Teri,Kolesnick,NA,100,0,0,0,NA,State House District 24,Washoe,031
+NV,25,Selena La Rue Hatch,Selena,La Rue,Hatch,NA,200,1,0,0,NA,State House District 25,Washoe,031
+NV,25,Diana Sande,Diana,NA,Sande,NA,100,0,0,0,NA,State House District 25,Washoe,031
+NV,26,Rich DeLong,Rich,NA,DeLong,NA,100,1,0,0,NA,State House District 26,Washoe,031
+NV,26,Scott Savage,Scott,NA,Savage,NA,200,0,0,0,NA,State House District 26,Washoe,031
+NV,26,"Diane ""Nevada Moon"" Sullivan",Diane,Nevada Moon,Sullivan,NA,200,0,0,0,NA,State House District 26,Washoe,031
+NV,27,Heather Goulding,Heather,NA,Goulding,NA,200,0,0,0,NA,State House District 27,Washoe,031
+NV,27,Alex Velto,Alex,NA,Velto,NA,200,0,0,0,NA,State House District 27,Washoe,031
+NV,27,Carmen Ortiz,Carmen,NA,Ortiz,NA,100,0,0,0,NA,State House District 27,Washoe,031
+NV,28,Reuben D'Silva,Reuben,NA,D'Silva,NA,200,1,0,0,NA,State House District 28,Clark,003
+NV,29,Joe Dalia,Joe,NA,Dalia,NA,200,0,0,0,NA,State House District 29,Clark,003
+NV,29,Annette Dawson Owens,Annette,NA,Dawson Owens,NA,100,0,0,0,NA,State House District 29,Clark,003
+NV,29,Yadusha Williams,Yadusha,NA,Williams,NA,100,0,0,0,NA,State House District 29,Clark,003
+NV,30,Natha C. Anderson,Natha,C.,Anderson,NA,200,1,0,0,NA,State House District 30,Washoe,031
+NV,30,Morgan Kolvet,Morgan,NA,Kolvet,NA,300,0,0,0,No Political Party,State House District 30,Washoe,031
+NV,31,Jill Dickman,Jill,NA,Dickman,NA,100,1,0,0,NA,State House District 31,Washoe,031
+NV,31,Stuart MacKie,Stuart,NA,MacKie,NA,200,0,0,0,NA,State House District 31,Washoe,031
+NV,32,Jason Bushey,Jason,NA,Bushey,NA,100,0,0,0,NA,State House District 32,Humboldt,013
+NV,32,Alexis M. Hansen,Alexis,M.,Hansen,NA,100,1,0,0,NA,State House District 32,Humboldt,013
+NV,32,Arnold W. Thomas,Arnold,W.,Thomas,NA,200,0,0,0,NA,State House District 32,Humboldt,013
+NV,32,John C. Gerhardt,John,C.,Gerhardt,NA,300,0,0,0,No Political Party,State House District 32,Humboldt,013
+NV,33,Bert K. Gurr,Bert,K.,Gurr,NA,100,1,0,0,NA,State House District 33,Elko,007
+NV,33,Darryl Baber,Darryl,NA,Baber,NA,300,0,0,0,Libertarian Party,State House District 33,Elko,007
+NV,34,Brandon Davis,Brandon,NA,Davis,NA,100,0,0,0,NA,State House District 34,Clark,003
+NV,34,Clem Ziroli III,Clem,NA,Ziroli,III,100,0,0,0,NA,State House District 34,Clark,003
+NV,34,Hanadi Nadeem,Hanadi,NA,Nadeem,NA,200,0,0,0,NA,State House District 34,Clark,003
+NV,35,Rebecca Edgeworth,Rebecca,NA,Edgeworth,NA,100,0,0,0,NA,State House District 35,Clark,003
+NV,35,Sharifa Wahab,Sharifa,NA,Wahab,NA,200,0,0,0,NA,State House District 35,Clark,003
+NV,36,Marlene Drake,Marlene,NA,Drake,NA,200,0,0,0,NA,State House District 36,Clark,003
+NV,36,Gregory Hafen II,Gregory,NA,Hafen,II,100,1,0,0,NA,State House District 36,Clark,003
+NV,37,Shea Backus,Shea,NA,Backus,NA,200,1,0,0,NA,State House District 37,Clark,003
+NV,37,David Brog,David,NA,Brog,NA,100,0,0,0,NA,State House District 37,Clark,003
+NV,38,Gregory S. Koenig,Gregory,S.,Koenig,NA,100,1,0,0,NA,State House District 38,Churchill,001
+NV,39,Ken Gray,Ken,NA,Gray,NA,100,1,0,0,NA,State House District 39,Douglas,005
+NV,39,Erich Obermayr,Erich,NA,Obermayr,NA,200,0,0,0,NA,State House District 39,Douglas,005
+NV,40,"Philip ""PK"" O'Neill",Philip,PK,O'Neill,NA,100,1,0,0,NA,State House District 40,Storey,029
+NV,40,Drew Ribar,Drew,NA,Ribar,NA,100,0,0,0,NA,State House District 40,Storey,029
+NV,40,Katherine Ramsey,Katherine,NA,Ramsey,NA,200,0,0,0,NA,State House District 40,Storey,029
+NV,41,Rafael Arroyo,Rafael,NA,Arroyo,NA,100,0,0,0,NA,State House District 41,Clark,003
+NV,41,Guadalupe Reyes,Guadalupe,NA,Reyes,NA,100,0,0,0,NA,State House District 41,Clark,003
+NV,41,Sandra Jauregui,Sandra,NA,Jauregui,NA,200,1,0,0,NA,State House District 41,Clark,003
+NV,42,Tracy Brown-May,Tracy,NA,Brown-May,NA,200,1,0,0,NA,State House District 42,Clark,003
+NV,42,Kevin L. Child,Kevin,L.,Child,NA,100,0,0,0,NA,State House District 42,Clark,003
+NV,42,"Katrin ""Mrs. Fix It"" Ivanoff",Katrin,Mrs. Fix It,Ivanoff,NA,100,0,0,0,NA,State House District 42,Clark,003
+NV,42,Sayed Zaidi,Sayed,NA,Zaidi,NA,200,0,0,0,NA,State House District 42,Clark,003
+MI,1,Tyrone Carter,Tyrone,NA,Carter,NA,200,1,0,0,NA,State House District 1,Wayne,163
+MI,1,Ziad Abdulmalik,Ziad,NA,Abdulmalik,NA,200,0,0,0,NA,State House District 1,Wayne,163
+MI,1,Valerie Whittaker,Valerie,NA,Whittaker,NA,100,0,0,0,NA,State House District 1,Wayne,163
+MI,2,Tullio Liberati Jr.,Tullio,NA,Liberati,Jr.,200,1,0,0,NA,State House District 2,Wayne,163
+MI,2,Frank Liberati,Frank,NA,Liberati,NA,200,0,1,0,NA,State House District 2,Wayne,163
+MI,2,Ronald Kokinda,Ronald,NA,Kokinda,NA,100,0,0,0,NA,State House District 2,Wayne,163
+MI,2,Mark DaSacco,Mark,NA,DaSacco,NA,300,0,0,0,Working Class Party,State House District 2,Wayne,163
+MI,3,Alabas Farhat,Alabas,NA,Farhat,NA,200,1,0,0,NA,State House District 3,Wayne,163
+MI,3,Ziad Abdulmalik,Ziad,NA,Abdulmalik,NA,200,0,0,0,NA,State House District 3,Wayne,163
+MI,3,Gus Tarraf,Gus,NA,Tarraf,NA,200,0,0,0,NA,State House District 3,Wayne,163
+MI,3,Richard A Zeile,Richard,A,Zeile,NA,100,0,0,0,NA,State House District 3,Wayne,163
+MI,3,Larry Betts,Larry,NA,Betts,NA,300,0,0,0,Working Class Party,State House District 3,Wayne,163
+MI,4,Karen Whitsett,Karen,NA,Whitsett,NA,200,1,0,0,NA,State House District 4,Wayne,163
+MI,4,Gus Tarraf,Gus,NA,Tarraf,NA,200,0,1,0,NA,State House District 4,Wayne,163
+MI,4,Tonya Wells,Tonya,NA,Wells,NA,100,0,0,1,NA,State House District 4,Wayne,163
+MI,5,Natalie Price,Natalie,NA,Price,NA,200,1,1,0,NA,State House District 5,Oakland,125
+MI,5,Crystal Bailey,Crystal,NA,Bailey,NA,200,0,0,0,NA,State House District 5,Oakland,125
+MI,5,Myya Jones,Myya,NA,Jones,NA,200,0,0,1,NA,State House District 5,Oakland,125
+MI,5,Kevin Keys III,Kevin,NA,Keys,III,200,0,0,0,NA,State House District 5,Oakland,125
+MI,5,Eric Love,Eric,NA,Love,NA,200,0,0,0,NA,State House District 5,Oakland,125
+MI,5,Regina Weiss,Regina,NA,Weiss,NA,200,1,0,0,NA,State House District 5,Oakland,125
+MI,5,Will Sears,Will,NA,Sears,NA,100,0,0,0,NA,State House District 5,Oakland,125
+MI,6,Natalie Price,Natalie,NA,Price,NA,200,1,0,0,NA,State House District 6,Oakland,125
+MI,6,Joseph R Fisher,Joseph,R,Fisher,NA,200,0,0,0,NA,State House District 6,Oakland,125
+MI,6,Eric Love,Eric,NA,Love,NA,200,0,1,0,NA,State House District 6,Oakland,125
+MI,6,Brent M Lamkin,Brent,M,Lamkin,NA,100,0,0,0,NA,State House District 6,Oakland,125
+MI,7,Abraham Aiyash,Abraham,NA,Aiyash,NA,200,1,1,0,NA,State House District 7,Wayne,163
+MI,7,Ernest T Little,Ernest,T,Little,NA,200,0,0,0,NA,State House District 7,Wayne,163
+MI,7,Tonya Myers Phillips,Tonya,Myers,Phillips,NA,200,0,0,0,NA,State House District 7,Wayne,163
+MI,7,Abraham D Shaw,Abraham,D,Shaw,NA,200,0,0,0,NA,State House District 7,Wayne,163
+MI,7,Barry L Altman,Barry,L,Altman,NA,100,0,0,0,NA,State House District 7,Wayne,163
+MI,7,Shelby Wininger,Shelby,NA,Wininger,NA,100,0,0,0,NA,State House District 7,Wayne,163
+MI,7,Linda Rayburn,Linda,NA,Rayburn,NA,300,0,0,0,Working Class Party,State House District 7,Wayne,163
+MI,8,LaTanya Garrett,LaTanya,NA,Garrett,NA,200,0,0,1,NA,State House District 8,Wayne,163
+MI,8,Chris Gilmer-Hill,Chris,NA,Gilmer-Hill,NA,200,0,0,0,NA,State House District 8,Wayne,163
+MI,8,Helena Scott,Helena,NA,Scott,NA,200,1,0,0,NA,State House District 8,Wayne,163
+MI,8,Alex Kuhn,Alex,NA,Kuhn,NA,100,0,0,0,NA,State House District 8,Wayne,163
+MI,8,Logan Ausherman,Logan,NA,Ausherman,NA,300,0,0,0,Working Class Party,State House District 8,Wayne,163
+MI,9,Bobby Christian,Bobby,NA,Christian,NA,200,0,1,0,NA,State House District 9,Wayne,163
+MI,9,Ryan M Nelson,Ryan,M,Nelson,NA,200,0,0,0,NA,State House District 9,Wayne,163
+MI,9,Lory Renea Parks,Lory,Renea,Parks,NA,200,0,0,0,NA,State House District 9,Wayne,163
+MI,9,Joe Tate,Joe,NA,Tate,NA,200,1,0,0,NA,State House District 9,Wayne,163
+MI,9,Michele Lundgren,Michele,NA,Lundgren,NA,100,0,0,0,NA,State House District 9,Wayne,163
+MI,10,Justin Counts,Justin,NA,Counts,NA,200,0,0,0,NA,State House District 10,Wayne,163
+MI,10,Veronica Paiz,Veronica,NA,Paiz,NA,200,1,0,0,NA,State House District 10,Wayne,163
+MI,10,Washington Youson,Washington,NA,Youson,NA,200,0,0,1,NA,State House District 10,Wayne,163
+MI,10,Griffin Wojtowicz,Griffin,NA,Wojtowicz,NA,100,0,0,0,NA,State House District 10,Wayne,163
+MI,11,Donavan McKinney,Donavan,NA,McKinney,NA,200,1,0,0,NA,State House District 11,Macomb,099
+MI,11,Dale J Walker,Dale,J,Walker,NA,100,0,0,0,NA,State House District 11,Macomb,099
+MI,12,Kimberly Edwards,Kimberly,NA,Edwards,NA,200,1,0,0,NA,State House District 12,Macomb,099
+MI,12,Patrick S Biange,Patrick,S,Biange,NA,200,0,0,0,NA,State House District 12,Macomb,099
+MI,12,Angela E McIntosh,Angela,E,McIntosh,NA,200,0,0,0,NA,State House District 12,Macomb,099
+MI,12,Randell J Shafer,Randell,J,Shafer,NA,100,0,0,0,NA,State House District 12,Macomb,099
+MI,13,Patricia Johnson Singleton,Patricia,Johnson,Singleton,NA,200,0,0,0,NA,State House District 13,Macomb,099
+MI,13,Richard M Steenland,Richard,M,Steenland,NA,200,0,0,0,NA,State House District 13,Macomb,099
+MI,13,Mai Xiong,Mai,NA,Xiong,NA,200,1,0,0,NA,State House District 13,Macomb,099
+MI,13,Jerrie Bowl Billelo,Jerrie,Bowl,Billelo,NA,100,0,0,0,NA,State House District 13,Macomb,099
+MI,13,Mark T Foster,Mark,T,Foster,NA,100,0,0,0,NA,State House District 13,Macomb,099
+MI,13,John Sheets,John,NA,Sheets,NA,100,0,0,0,NA,State House District 13,Macomb,099
+MI,13,Ronald Singer,Ronald,NA,Singer,NA,100,0,0,0,NA,State House District 13,Macomb,099
+MI,13,Hashim Malik Bakari,Hashim,Malik,Bakari,NA,300,0,0,0,Working Class Party,State House District 13,Macomb,099
+MI,14,James R Fouts,James,R,Fouts,NA,200,0,0,0,NA,State House District 14,Macomb,099
+MI,14,Mike McFall,Mike,NA,McFall,NA,200,1,0,0,NA,State House District 14,Macomb,099
+MI,14,Barbara Barber,Barbara,NA,Barber,NA,100,0,0,0,NA,State House District 14,Macomb,099
+MI,15,Erin Byrnes,Erin,NA,Byrnes,NA,200,1,0,0,NA,State House District 15,Wayne,163
+MI,15,Gary Edward Gardner,Gary,Edward,Gardner,NA,100,0,0,0,NA,State House District 15,Wayne,163
+MI,16,Stephanie A. Young,Stephanie,A.,Young,NA,200,1,0,0,NA,State House District 16,Wayne,163
+MI,16,Keith Windham,Keith,NA,Windham,NA,200,0,0,0,NA,State House District 16,Wayne,163
+MI,16,Brian Duggan,Brian,NA,Duggan,NA,100,0,0,0,NA,State House District 16,Wayne,163
+MI,16,Linda Green-Harris,Linda,NA,Green-Harris,NA,300,0,0,0,Working Class Party,State House District 16,Wayne,163
+MI,17,Laurie Pohutsky,Laurie,NA,Pohutsky,NA,200,1,0,0,NA,State House District 17,Wayne,163
+MI,17,Rola Makki,Rola,NA,Makki,NA,100,0,0,0,NA,State House District 17,Wayne,163
+MI,18,Jason Hoskins,Jason,NA,Hoskins,NA,200,1,0,0,NA,State House District 18,Oakland,125
+MI,18,Mordechai Klainberg,Mordechai,NA,Klainberg,NA,100,0,0,0,NA,State House District 18,Oakland,125
+MI,19,Samantha Steckloff,Samantha,NA,Steckloff,NA,200,1,0,0,NA,State House District 19,Oakland,125
+MI,19,Kevin J Hammer,Kevin,J,Hammer,NA,100,0,0,0,NA,State House District 19,Oakland,125
+MI,20,Noah Arbit,Noah,NA,Arbit,NA,200,1,0,0,NA,State House District 20,Oakland,125
+MI,20,Hermon Barbe,Hermon,NA,Barbe,NA,100,0,0,0,NA,State House District 20,Oakland,125
+MI,20,Brendan Cowley,Brendan,NA,Cowley,NA,100,0,0,0,NA,State House District 20,Oakland,125
+MI,21,Kelly Breen,Kelly,NA,Breen,NA,200,1,0,0,NA,State House District 21,Oakland,125
+MI,21,Thomas Konesky,Thomas,NA,Konesky,NA,100,0,0,0,NA,State House District 21,Oakland,125
+MI,21,James Young,James,NA,Young,NA,300,0,0,0,Libertarian Party,State House District 21,Oakland,125
+MI,22,Matt Koleszar,Matt,NA,Koleszar,NA,200,1,0,0,NA,State House District 22,Wayne,163
+MI,22,Christian Charette,Christian,NA,Charette,NA,100,0,0,0,NA,State House District 22,Wayne,163
+MI,22,Adam A Stathakis,Adam,A,Stathakis,NA,100,0,0,0,NA,State House District 22,Wayne,163
+MI,23,Jason Morgan,Jason,NA,Morgan,NA,200,1,0,0,NA,State House District 23,Washtenaw,161
+MI,23,Miriam Corvino,Miriam,NA,Corvino,NA,100,0,0,0,NA,State House District 23,Washtenaw,161
+MI,23,David Stamp,David,NA,Stamp,NA,100,0,0,0,NA,State House District 23,Washtenaw,161
+MI,23,Christian Marudas,Christian,NA,Marudas,NA,300,0,0,0,Green Party,State House District 23,Washtenaw,161
+MI,24,Ranjeev Puri,Ranjeev,NA,Puri,NA,200,1,0,0,NA,State House District 24,Wayne,163
+MI,24,Leonard C Scott,Leonard,C,Scott,NA,100,0,0,0,NA,State House District 24,Wayne,163
+MI,25,Peter Herzberg,Peter,NA,Herzberg,NA,200,0,0,0,NA,State House District 25,Wayne,163
+MI,25,Melandie Yvonee Hines,Melandie,Yvonee,Hines,NA,200,0,0,0,NA,State House District 25,Wayne,163
+MI,25,Salif Kourouma,Salif,NA,Kourouma,NA,200,0,0,0,NA,State House District 25,Wayne,163
+MI,25,Lekisha M Maxwell,Lekisha,M,Maxwell,NA,200,0,0,0,NA,State House District 25,Wayne,163
+MI,25,Layla Taha,Layla,NA,Taha,NA,200,0,0,0,NA,State House District 25,Wayne,163
+MI,25,Josh Powell,Josh,NA,Powell,NA,100,0,0,0,NA,State House District 25,Wayne,163
+MI,26,Dylan Wegela,Dylan,NA,Wegela,NA,200,1,0,0,NA,State House District 26,Wayne,163
+MI,26,DeArtriss Coleman-Richardson,DeArtriss,NA,Coleman-Richardson,NA,200,0,0,0,NA,State House District 26,Wayne,163
+MI,26,Jeff Gorman,Jeff,NA,Gorman,NA,100,0,0,0,NA,State House District 26,Wayne,163
+MI,27,Jaime Churches,Jaime,NA,Churches,NA,200,1,0,0,NA,State House District 27,Wayne,163
+MI,27,Cody Dill,Cody,NA,Dill,NA,100,0,0,0,NA,State House District 27,Wayne,163
+MI,27,Rylee Linting,Rylee,NA,Linting,NA,100,0,0,0,NA,State House District 27,Wayne,163
+MI,27,Maria Mendoza-Boc,Maria,NA,Mendoza-Boc,NA,100,0,0,0,NA,State House District 27,Wayne,163
+MI,27,Frank A Tarnowski Jr,Frank,A,Tarnowski,Jr,100,0,1,0,NA,State House District 27,Wayne,163
+MI,28,Jamie Thompson,Jamie,NA,Thompson,NA,100,1,0,0,NA,State House District 28,Monroe,115
+MI,28,Joe DeSana,Joe,NA,DeSana,NA,100,0,1,0,NA,State House District 28,Monroe,115
+MI,28,Beth Ann Socia,Beth,Ann,Socia,NA,100,0,0,0,NA,State House District 28,Monroe,115
+MI,28,Janise O'Neil Robinson,Janise,NA,O'Neil Robinson,NA,200,0,0,0,NA,State House District 28,Monroe,115
+MI,29,James DeSana,James,NA,DeSana,NA,100,1,0,0,NA,State House District 29,Wayne,163
+MI,29,Kyle Wright,Kyle,NA,Wright,NA,200,0,0,0,NA,State House District 29,Wayne,163
+MI,30,William Bruck,William,NA,Bruck,NA,100,1,0,0,NA,State House District 30,Monroe,115
+MI,30,Rick Kull,Rick,NA,Kull,NA,200,0,0,0,NA,State House District 30,Monroe,115
+MI,31,Reggie Miller,Reggie,NA,Miller,NA,200,1,0,0,NA,State House District 31,Monroe,115
+MI,31,Dale Biniecki,Dale,NA,Biniecki,NA,100,0,0,0,NA,State House District 31,Monroe,115
+MI,32,Jimmie Wilson Jr.,Jimmie,NA,Wilson,Jr.,200,1,0,0,NA,State House District 32,Washtenaw,161
+MI,32,James Chapman,James,NA,Chapman,NA,100,0,0,0,NA,State House District 32,Washtenaw,161
+MI,32,Martin A Church,Martin,A,Church,NA,100,0,0,0,NA,State House District 32,Washtenaw,161
+MI,32,Jonathan Hoover,Jonathan,NA,Hoover,NA,100,0,0,0,NA,State House District 32,Washtenaw,161
+MI,32,Ryan Sample,Ryan,NA,Sample,NA,300,0,0,0,Green Party,State House District 32,Washtenaw,161
+MI,33,Morgan Foreman,Morgan,NA,Foreman,NA,200,0,0,0,NA,State House District 33,Washtenaw,161
+MI,33,Rima Mohammad,Rima,NA,Mohammad,NA,200,0,0,0,NA,State House District 33,Washtenaw,161
+MI,33,Alan L Dettling,Alan,L,Dettling,NA,100,0,1,0,NA,State House District 33,Washtenaw,161
+MI,33,Jason Rogers,Jason,NA,Rogers,NA,100,0,0,0,NA,State House District 33,Washtenaw,161
+MI,34,Nancy Jenkins-Arno,Nancy,NA,Jenkins-Arno,NA,100,0,0,0,NA,State House District 34,Lenawee,091
+MI,34,John E Dahlgren,John,E,Dahlgren,NA,200,0,0,0,NA,State House District 34,Lenawee,091
+MI,35,Tom Matthew,Tom,NA,Matthew,NA,100,0,0,0,NA,State House District 35,Hillsdale,059
+MI,35,Adam K Stockford,Adam,K,Stockford,NA,100,0,0,0,NA,State House District 35,Hillsdale,059
+MI,35,Jennifer Wortz,Jennifer,NA,Wortz,NA,100,0,0,0,NA,State House District 35,Hillsdale,059
+MI,35,Don Hicks,Don,NA,Hicks,NA,200,0,0,0,NA,State House District 35,Hillsdale,059
+MI,36,Steve Carra,Steve,NA,Carra,NA,100,1,0,0,NA,State House District 36,St. Joseph,149
+MI,36,Michael Malmborg,Michael,NA,Malmborg,NA,100,0,0,0,NA,State House District 36,St. Joseph,149
+MI,36,Frank Perez,Frank,NA,Perez,NA,100,0,0,0,NA,State House District 36,St. Joseph,149
+MI,36,Erin L Schultes,Erin,L,Schultes,NA,200,0,0,0,NA,State House District 36,St. Joseph,149
+MI,37,Brad Paquette,Brad,NA,Paquette,NA,100,1,0,0,NA,State House District 37,Berrien,021
+MI,37,Angela Jones,Angela,NA,Jones,NA,200,0,0,0,NA,State House District 37,Berrien,021
+MI,38,Joey Andrews,Joey,NA,Andrews,NA,200,1,0,0,NA,State House District 38,Berrien,021
+MI,38,George Lucas,George,NA,Lucas,NA,100,0,0,0,NA,State House District 38,Berrien,021
+MI,38,Kevin Whiteford,Kevin,NA,Whiteford,NA,100,0,0,0,NA,State House District 38,Berrien,021
+MI,39,Pauline Wendzel,Pauline,NA,Wendzel,NA,100,1,0,0,NA,State House District 39,Van Buren,159
+MI,39,Richard Overton,Richard,NA,Overton,NA,100,0,0,0,NA,State House District 39,Van Buren,159
+MI,39,Kerry Tapper,Kerry,NA,Tapper,NA,200,0,0,0,NA,State House District 39,Van Buren,159
+MI,39,Jared Polonowski,Jared,NA,Polonowski,NA,200,0,0,0,NA,State House District 39,Van Buren,159
+MI,40,Lisa Brayton,Lisa,NA,Brayton,NA,200,0,0,0,NA,State House District 40,Kalamazoo,077
+MI,40,Matt Longjohn,Matt,NA,Longjohn,NA,200,0,0,0,NA,State House District 40,Kalamazoo,077
+MI,40,Abby Wheeler,Abby,NA,Wheeler,NA,200,0,1,0,NA,State House District 40,Kalamazoo,077
+MI,40,Kelly Sackett,Kelly,NA,Sackett,NA,100,0,0,0,NA,State House District 40,Kalamazoo,077
+MI,41,Julie Rogers,Julie,NA,Rogers,NA,200,1,0,0,NA,State House District 41,Kalamazoo,077
+MI,41,Terry Haines,Terry,NA,Haines,NA,100,0,0,0,NA,State House District 41,Kalamazoo,077
+MI,41,Nicole C Sabel,Nicole,C,Sabel,NA,100,0,0,0,NA,State House District 41,Kalamazoo,077
+MI,41,Rafael Wolf,Rafael,NA,Wolf,NA,300,0,0,0,Libertarian Party,State House District 41,Kalamazoo,077
+MI,42,Matt Hall,Matt,NA,Hall,NA,100,1,0,0,NA,State House District 42,Kalamazoo,077
+MI,42,Rich Cutshaw,Rich,NA,Cutshaw,NA,100,0,0,0,NA,State House District 42,Kalamazoo,077
+MI,42,Austin Marsman,Austin,NA,Marsman,NA,200,0,0,0,NA,State House District 42,Kalamazoo,077
+MI,43,Rachelle Smit,Rachelle,NA,Smit,NA,100,1,0,0,NA,State House District 43,Allegan,005
+MI,43,Danene Shumaker,Danene,NA,Shumaker,NA,200,0,0,0,NA,State House District 43,Allegan,005
+MI,44,Jim Haadsma,Jim,NA,Haadsma,NA,200,1,0,0,NA,State House District 44,Calhoun,025
+MI,44,Steve Frisbie,Steve,NA,Frisbie,NA,100,0,0,0,NA,State House District 44,Calhoun,025
+MI,44,Alexander W Harris,Alexander,W,Harris,NA,100,0,0,0,NA,State House District 44,Calhoun,025
+MI,44,Just Shotts,Just,NA,Shotts,NA,100,0,0,0,NA,State House District 44,Calhoun,025
+MI,45,Sarah Lightner,Sarah,NA,Lightner,NA,100,1,0,0,NA,State House District 45,Calhoun,025
+MI,45,Doug Murch,Doug,NA,Murch,NA,200,0,0,0,NA,State House District 45,Calhoun,025
+MI,46,Kathy Schmaltz,Kathy,NA,Schmaltz,NA,100,1,0,0,NA,State House District 46,Jackson,075
+MI,46,Daniel J Mahoney,Daniel,J,Mahoney,NA,200,0,0,0,NA,State House District 46,Jackson,075
+MI,47,Carrie A Rheingans,Carrie,A,Rheingans,NA,200,1,0,0,NA,State House District 47,Washtenaw,161
+MI,47,Tammy May Keller,Tammy,May,Keller,NA,100,0,0,0,NA,State House District 47,Washtenaw,161
+MI,47,Teresa Spiegelberg,Teresa,NA,Spiegelberg,NA,100,0,0,0,NA,State House District 47,Washtenaw,161
+MI,47,Aaron Wright,Aaron,NA,Wright,NA,300,0,0,0,Green Party,State House District 47,Washtenaw,161
+MI,48,Jennifer A Conlin,Jennifer,A,Conlin,NA,200,1,0,0,NA,State House District 48,Washtenaw,161
+MI,48,Tawn Beliger,Tawn,NA,Beliger,NA,100,0,0,0,NA,State House District 48,Washtenaw,161
+MI,48,Brian Ignatowski,Brian,NA,Ignatowski,NA,100,0,0,0,NA,State House District 48,Washtenaw,161
+MI,48,Eric Borregard,Eric,NA,Borregard,NA,300,0,0,0,Green Party,State House District 48,Washtenaw,161
+MI,49,Ann Bollin,Ann,NA,Bollin,NA,100,1,0,0,NA,State House District 49,Livingston,093
+MI,49,Andy Wood,Andy,NA,Wood,NA,200,0,0,0,NA,State House District 49,Livingston,093
+MI,50,Robert Bezotte,Robert,NA,Bezotte,NA,100,1,0,0,NA,State House District 50,Livingston,093
+MI,50,Kristina Lyke,Kristina,NA,Lyke,NA,100,0,0,0,NA,State House District 50,Livingston,093
+MI,50,Dominic Restuccia,Dominic,NA,Restuccia,NA,100,0,0,0,NA,State House District 50,Livingston,093
+MI,50,Jason Woolford,Jason,NA,Woolford,NA,100,0,0,0,NA,State House District 50,Livingston,093
+MI,50,Austin Breuer,Austin,NA,Breuer,NA,200,0,0,0,NA,State House District 50,Livingston,093
+MI,51,Matt Maddock,Matt,NA,Maddock,NA,100,1,0,0,NA,State House District 51,Oakland,125
+MI,51,Laura Vogel,Laura,NA,Vogel,NA,100,0,1,0,NA,State House District 51,Oakland,125
+MI,51,Kevin Ziegler,Kevin,NA,Ziegler,NA,100,0,0,0,NA,State House District 51,Oakland,125
+MI,51,Sarah May-Seward,Sarah,NA,May-Seward,NA,200,0,0,0,NA,State House District 51,Oakland,125
+MI,51,Debbie Llewellyn,Debbie,NA,Llewellyn,NA,200,0,0,0,NA,State House District 51,Oakland,125
+MI,52,Mike Harris,Mike,NA,Harris,NA,100,1,0,0,NA,State House District 52,Oakland,125
+MI,52,Caroline Dargay,Caroline,NA,Dargay,NA,200,0,0,0,NA,State House District 52,Oakland,125
+MI,53,Brenda Carter,Brenda,NA,Carter,NA,200,1,0,0,NA,State House District 53,Oakland,125
+MI,53,Melissa Schultz,Melissa,NA,Schultz,NA,100,0,0,0,NA,State House District 53,Oakland,125
+MI,54,Donni Steele,Donni,NA,Steele,NA,100,1,0,0,NA,State House District 54,Oakland,125
+MI,54,Annette LeBaron,Annette,NA,LeBaron,NA,100,0,1,0,NA,State House District 54,Oakland,125
+MI,54,Shadia Martini,Shadia,NA,Martini,NA,200,0,0,0,NA,State House District 54,Oakland,125
+MI,55,Mark Tisdel,Mark,NA,Tisdel,NA,100,1,0,0,NA,State House District 55,Oakland,125
+MI,55,Trevis Harrold,Trevis,NA,Harrold,NA,200,0,0,0,NA,State House District 55,Oakland,125
+MI,55,Alexander Hawkins,Alexander,NA,Hawkins,NA,200,0,0,0,NA,State House District 55,Oakland,125
+MI,55,Neil Oza,Neil,NA,Oza,NA,200,0,1,0,NA,State House District 55,Oakland,125
+MI,56,Sharon MacDonell,Sharon,NA,MacDonell,NA,200,1,0,0,NA,State House District 56,Oakland,125
+MI,56,Dave Kniffen,Dave,NA,Kniffen,NA,100,0,0,0,NA,State House District 56,Oakland,125
+MI,57,Thomas E Kuhn,Thomas,E,Kuhn,NA,100,1,0,0,NA,State House District 57,Macomb,099
+MI,57,Aisha Farooqi,Aisha,NA,Farooqi,NA,200,0,0,0,NA,State House District 57,Macomb,099
+MI,57,Tyler Fox,Tyler,NA,Fox,NA,200,0,0,0,NA,State House District 57,Macomb,099
+MI,57,Douglas Waggener,Douglas,NA,Waggener,NA,200,0,0,0,NA,State House District 57,Macomb,099
+MI,58,Nate Shannon,Nate,NA,Shannon,NA,200,1,0,0,NA,State House District 58,Macomb,099
+MI,58,Donald T Eason,Donald,T,Eason,NA,100,0,1,0,NA,State House District 58,Macomb,099
+MI,58,Roger Goodrich,Roger,NA,Goodrich,NA,100,0,0,0,NA,State House District 58,Macomb,099
+MI,58,Ron Robinson,Ron,NA,Robinson,NA,100,0,0,0,NA,State House District 58,Macomb,099
+MI,59,Douglas C Wozniak,Douglas,C,Wozniak,NA,100,1,0,0,NA,State House District 59,Macomb,099
+MI,59,Jean Zott,Jean,NA,Zott,NA,100,0,0,0,NA,State House District 59,Macomb,099
+MI,59,Jason Pulaski,Jason,NA,Pulaski,NA,200,0,0,0,NA,State House District 59,Macomb,099
+MI,60,Joseph Aragona,Joseph,NA,Aragona,NA,100,1,0,0,NA,State House District 60,Macomb,099
+MI,60,Shelly Fraley,Shelly,NA,Fraley,NA,200,0,0,0,NA,State House District 60,Macomb,099
+MI,61,Denise Mentzer,Denise,NA,Mentzer,NA,200,1,0,0,NA,State House District 61,Macomb,099
+MI,61,Russ Clearly,Russ,NA,Clearly,NA,100,0,0,0,NA,State House District 61,Macomb,099
+MI,61,John Grosssenbacher,John,NA,Grosssenbacher,NA,100,0,0,0,NA,State House District 61,Macomb,099
+MI,61,Robert Woktowicz,Robert,NA,Woktowicz,NA,100,0,0,0,NA,State House District 61,Macomb,099
+MI,62,Alicia St. Germaine,Alicia,NA,St. Germaine,NA,100,1,0,0,NA,State House District 62,Macomb,099
+MI,62,Michelle Levine-Woodman,Michelle,NA,Levine-Woodman,NA,200,0,0,0,NA,State House District 62,Macomb,099
+MI,63,Jay DeBoyer,Jay,NA,DeBoyer,NA,100,1,0,0,NA,State House District 63,St. Clair,147
+MI,63,Michael Zoran,Michael,NA,Zoran,NA,100,0,0,0,NA,State House District 63,St. Clair,147
+MI,63,Robert E Kelly-McFarland,Robert,E,Kelly-McFarland,NA,200,0,0,0,NA,State House District 63,St. Clair,147
+MI,64,John Anter,John,NA,Anter,NA,200,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Mathew Castillo,Mathew,NA,Castillo,NA,200,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Ken Heuvelman,Ken,NA,Heuvelman,NA,200,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Jorja Baldwin,Jorja,NA,Baldwin,NA,100,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Gary R Eisen,Gary,R,Eisen,NA,100,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Jordan Epperson,Jordan,NA,Epperson,NA,100,0,1,0,NA,State House District 64,St. Clair,147
+MI,64,Dan Geiersbach,Dan,NA,Geiersbach,NA,100,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Ryan Maxon,Ryan,NA,Maxon,NA,100,0,0,0,NA,State House District 64,St. Clair,147
+MI,64,Joseph G Pavlov,Joseph,G,Pavlov,NA,100,0,0,0,NA,State House District 64,St. Clair,147
+MI,65,Jaime Greene,Jaime,NA,Greene,NA,100,1,0,0,NA,State House District 65,St. Clair,147
+MI,65,Shirley Tomczak,Shirley,NA,Tomczak,NA,200,0,0,0,NA,State House District 65,St. Clair,147
+MI,66,Josh Schriver,Josh,NA,Schriver,NA,100,1,0,0,NA,State House District 66,Oakland,125
+MI,66,Randy LeVasseur,Randy,NA,LeVasseur,NA,100,0,0,0,NA,State House District 66,Oakland,125
+MI,66,Jeffrey M Omtvedt,Jeffrey,M,Omtvedt,NA,100,0,1,0,NA,State House District 66,Oakland,125
+MI,66,Shawn Almeranti-Crosby,Shawn,NA,Almeranti-Crosby,NA,200,0,0,0,NA,State House District 66,Oakland,125
+MI,67,Phil Green,Phil,NA,Green,NA,100,1,0,0,NA,State House District 67,Lapeer,087
+MI,67,Sherri J Cross,Sherri,J,Cross,NA,100,0,0,0,NA,State House District 67,Lapeer,087
+MI,67,Sherry J Marden,Sherry,J,Marden,NA,100,0,0,0,NA,State House District 67,Lapeer,087
+MI,67,Anissa J Buffin,Anissa,J,Buffin,NA,200,0,0,0,NA,State House District 67,Lapeer,087
+MI,68,David W Martin,David,W,Martin,NA,100,1,0,0,NA,State House District 68,Genesee,049
+MI,68,Tim Sneller,Tim,NA,Sneller,NA,200,0,0,0,NA,State House District 68,Genesee,049
+MI,69,Jasper Ryan Martus,Jasper,Ryan,Martus,NA,200,1,0,0,NA,State House District 69,Genesee,049
+MI,69,Patrick Duvendeck,Patrick,NA,Duvendeck,NA,100,0,0,0,NA,State House District 69,Genesee,049
+MI,70,Cynthia R Neeley,Cynthia,R,Neeley,NA,200,1,0,0,NA,State House District 70,Genesee,049
+MI,70,Michael Floyd Clack,Michael,Floyd,Clack,NA,200,0,0,0,NA,State House District 70,Genesee,049
+MI,70,Rob Waskoviak,Rob,NA,Waskoviak,NA,100,0,0,0,NA,State House District 70,Genesee,049
+MI,71,Brian BeGole,Brian,NA,BeGole,NA,100,1,0,0,NA,State House District 71,Shiawassee,155
+MI,71,Kevin Rathbun,Kevin,NA,Rathbun,NA,100,0,0,0,NA,State House District 71,Shiawassee,155
+MI,71,Mark D Zacharda,Mark,D,Zacharda,NA,200,0,0,0,NA,State House District 71,Shiawassee,155
+MI,72,Mike Mueller,Mike,NA,Mueller,NA,100,1,0,0,NA,State House District 72,Genesee,049
+MI,72,John Dolza,John,NA,Dolza,NA,200,0,0,0,NA,State House District 72,Genesee,049
+MI,73,Julie Brixie,Julie,NA,Brixie,NA,200,1,0,0,NA,State House District 73,Ingham,065
+MI,73,Joshua J Rockey,Joshua,J,Rockey,NA,100,0,0,0,NA,State House District 73,Ingham,065
+MI,74,Kara Hope,Kara,NA,Hope,NA,200,1,0,0,NA,State House District 74,Ingham,065
+MI,74,Tom Izzo,Tom,NA,Izzo,NA,100,0,0,0,NA,State House District 74,Ingham,065
+MI,75,Penelope Tsernoglou,Penelope,NA,Tsernoglou,NA,200,1,0,0,NA,State House District 75,Clinton,037
+MI,75,Frank Lambert,Frank,NA,Lambert,NA,100,0,0,0,NA,State House District 75,Clinton,037
+MI,76,Angela Witwer,Angela,NA,Witwer,NA,200,1,0,0,NA,State House District 76,Eaton,045
+MI,76,Peter Jones,Peter,NA,Jones,NA,100,0,0,0,NA,State House District 76,Eaton,045
+MI,76,Andy Shaver,Andy,NA,Shaver,NA,100,0,0,0,NA,State House District 76,Eaton,045
+MI,77,Emily E Dievendorf,Emily,E,Dievendorf,NA,200,1,0,0,NA,State House District 77,Clinton,037
+MI,77,Angela Mathews,Angela,NA,Mathews,NA,200,0,0,0,NA,State House District 77,Clinton,037
+MI,77,Julie L DeRose,Julie,L,DeRose,NA,100,0,0,0,NA,State House District 77,Clinton,037
+MI,77,Cady Ness-Smith,Cady,NA,Ness-Smith,NA,100,0,0,0,NA,State House District 77,Clinton,037
+MI,78,Gina Johnsen,Gina,NA,Johnsen,NA,100,1,0,0,NA,State House District 78,Ionia,067
+MI,78,Joh Rocha,Joh,NA,Rocha,NA,100,0,0,0,NA,State House District 78,Ionia,067
+MI,78,Christine M Terpening,Christine,M,Terpening,NA,200,0,0,0,NA,State House District 78,Ionia,067
+MI,79,Angela Rigas,Angela,NA,Rigas,NA,100,1,0,0,NA,State House District 79,Barry,015
+MI,79,Jason Rubin,Jason,NA,Rubin,NA,200,0,0,0,NA,State House District 79,Barry,015
+MI,80,Phil Skaggs,Phil,NA,Skaggs,NA,200,1,0,0,NA,State House District 80,Kent,081
+MI,80,Bill Sage,Bill,NA,Sage,NA,100,0,0,0,NA,State House District 80,Kent,081
+MI,81,Stephen Wooden,Stephen,NA,Wooden,NA,200,0,0,0,NA,State House District 81,Kent,081
+MI,81,Jordan Youngquist,Jordan,NA,Youngquist,NA,100,0,0,0,NA,State House District 81,Kent,081
+MI,82,Kristian Grant,Kristian,NA,Grant,NA,200,1,0,0,NA,State House District 82,Kent,081
+MI,82,Ryan Malinoski,Ryan,NA,Malinoski,NA,100,0,0,0,NA,State House District 82,Kent,081
+MI,83,John Fitzgerald,John,NA,Fitzgerald,NA,200,1,0,0,NA,State House District 83,Kent,081
+MI,83,Cindy Ramirez Amante,Cindy,NA,Ramirez Amante,NA,100,0,1,0,NA,State House District 83,Kent,081
+MI,83,Tommy Brann,Tommy,NA,Brann,NA,100,0,0,0,NA,State House District 83,Kent,081
+MI,83,Miguel Pilar,Miguel,NA,Pilar,NA,100,0,1,0,NA,State House District 83,Kent,081
+MI,84,Carol Glanville,Carol,NA,Glanville,NA,200,1,0,0,NA,State House District 84,Kent,081
+MI,84,Justin Rackham,Justin,NA,Rackham,NA,200,0,0,0,NA,State House District 84,Kent,081
+MI,84,Ben June,Ben,NA,June,NA,100,0,0,0,NA,State House District 84,Kent,081
+MI,84,John Wetzel,John,NA,Wetzel,NA,100,0,0,0,NA,State House District 84,Kent,081
+MI,85,Bradley Slagh,Bradley,NA,Slagh,NA,100,1,0,0,NA,State House District 85,Ottawa,139
+MI,85,Marcia Mansaray,Marcia,NA,Mansaray,NA,200,0,0,0,NA,State House District 85,Ottawa,139
+MI,86,Nancy De Boer,Nancy,NA,DeBoer,NA,100,1,0,0,NA,State House District 86,Ottawa,139
+MI,86,Abby Klomparens,Abby,NA,Klomparens,NA,200,0,0,0,NA,State House District 86,Ottawa,139
+MI,87,Will Snyder,Will,NA,Snyder,NA,200,1,0,0,NA,State House District 87,Muskegon,121
+MI,87,Chip Chipman,Chip,NA,Chipman,NA,100,0,0,0,NA,State House District 87,Muskegon,121
+MI,87,Rich McClain,Rich,NA,McClain,NA,300,0,0,0,Libertarian Party,State House District 87,Muskegon,121
+MI,88,Greg VanWoerkom,Greg,NA,VanWoerkom,NA,100,1,0,0,NA,State House District 88,Ottawa,139
+MI,88,Tim Meyer,Tim,NA,Meyer,NA,200,0,0,0,NA,State House District 88,Ottawa,139
+MI,89,Luke Meerman,Luke,NA,Meerman,NA,100,1,0,0,NA,State House District 89,Ottawa,139
+MI,89,Lois E Maassen,Lois,E,Maassen,NA,200,0,0,0,NA,State House District 89,Ottawa,139
+MI,90,Bryan Posthumus,Bryan,NA,Posthumus,NA,100,1,0,0,NA,State House District 90,Kent,081
+MI,90,William J Higgins,William,J,Higgins,NA,200,0,0,0,NA,State House District 90,Kent,081
+MI,91,Pat Outman,Pat,NA,Outman,NA,100,1,0,0,NA,State House District 91,Montcalm,117
+MI,91,Jason A Dillingham,Jason,A,Dillingham,NA,200,0,0,0,NA,State House District 91,Montcalm,117
+MI,92,Jerry Neyer,Jerry,NA,Neyer,NA,100,1,0,0,NA,State House District 92,Isabella,073
+MI,92,Timothy Odykirk,Timothy,NA,Odykirk,NA,200,0,0,0,NA,State House District 92,Isabella,073
+MI,93,Tim Kelly,Tim,NA,Kelly,NA,100,0,0,0,NA,State House District 93,Saginaw,145
+MI,93,Kevin C Seamon,Kevin,C,Seamon,NA,200,0,0,0,NA,State House District 93,Saginaw,145
+MI,94,Amos O'Neal,Amos,NA,O'Neal,NA,200,1,0,0,NA,State House District 94,Saginaw,145
+MI,94,Geoffrey Weil,Geoffrey,NA,Weil,NA,100,0,0,0,NA,State House District 94,Saginaw,145
+MI,94,Robert E Zelle,Robert,E,Zelle,NA,100,0,0,0,NA,State House District 94,Saginaw,145
+MI,95,Bill G Schuette,Bill,G,Schuette,NA,100,1,0,0,NA,State House District 95,Midland,111
+MI,95,Sabrina Lopez,Sabrina,NA,Lopez,NA,200,0,0,0,NA,State House District 95,Midland,111
+MI,96,Timothy Beson,Timothy,NA,Beson,NA,100,1,0,0,NA,State House District 96,Bay,017
+MI,96,Chaz Fowler,Chaz,NA,Fowler,NA,100,0,0,0,NA,State House District 96,Bay,017
+MI,96,Rudy M Howard Jr,Rudy,M,Howard,Jr,200,0,0,0,NA,State House District 96,Bay,017
+MI,97,Matthew Bierlein,Matthew,NA,Bierlein,NA,100,1,0,0,NA,State House District 97,Tuscola,157
+MI,97,Mark Putnam,Mark,NA,Putnam,NA,200,0,0,0,NA,State House District 97,Tuscola,157
+MI,98,Gregory L Alexander,Gregory,L,Alexander,NA,100,1,0,0,NA,State House District 98,Huron,063
+MI,98,April L Osentoski,April,L,Osentoski,NA,200,0,0,0,NA,State House District 98,Huron,063
+MI,99,Mike Hoadley,Mike,NA,Hoadley,NA,100,1,0,0,NA,State House District 99,Iosco,069
+MI,99,Jon LeRoux,Jon,NA,LeRoux,NA,200,0,0,0,NA,State House District 99,Iosco,069
+MI,100,Tom Kunse,Tom,NA,Kunse,NA,100,1,0,0,NA,State House District 100,Osceola,133
+MI,100,Tracy Ruell,Tracy,NA,Ruell,NA,200,0,0,0,NA,State House District 100,Osceola,133
+MI,100,Jamie McClendon,Jamie,NA,McClendon,NA,200,0,0,0,NA,State House District 100,Osceola,133
+MI,101,Joseph D Fox,Joseph,D,Fox,NA,100,1,0,0,NA,State House District 101,Newaygo,123
+MI,101,Brandon Scott McDonald,Brandon,Scott,McDonald,NA,100,0,0,0,NA,State House District 101,Newaygo,123
+MI,101,Christopher R Crain,Christopher,R,Crain,NA,200,0,0,0,NA,State House District 101,Newaygo,123
+MI,102,Curt VanderWall,Curt,NA,VanderWall,NA,100,1,0,0,NA,State House District 102,Oceana,127
+MI,102,Kathy Pelleran-Mahoney,Kathy,NA,Pelleran-Mahoney,NA,200,0,0,0,NA,State House District 102,Oceana,127
+MI,103,Betsy Coffia,Betsy,NA,Coffia,NA,200,1,0,0,NA,State House District 103,Leelanau,089
+MI,103,Tripp Garcia,Tripp,NA,Garcia,NA,100,0,0,0,NA,State House District 103,Leelanau,089
+MI,103,Katie Kniss,Katie,NA,Kniss,NA,100,0,0,0,NA,State House District 103,Leelanau,089
+MI,103,Lisa Trombley,Lisa,NA,Trombley,NA,100,0,0,0,NA,State House District 103,Leelanau,089
+MI,104,John Roth,John,NA,Roth,NA,100,1,0,0,NA,State House District 104,Benzie,019
+MI,104,Owen J Suhy,Owen,J,Suhy,NA,100,0,0,0,NA,State House District 104,Benzie,019
+MI,104,Larry Knight,Larry,NA,Knight,NA,200,0,0,0,NA,State House District 104,Benzie,019
+MI,104,Randy Bishop,Randy,NA,Bishop,NA,200,0,1,0,NA,State House District 104,Benzie,019
+MI,104,Tyler Lautern,Tyler,NA,Lautern,NA,300,0,0,0,Liberatrian Party,State House District 104,Benzie,019
+MI,104,Cathy Albro,Cathy,NA,Albro,NA,300,0,0,0,Independent,State House District 104,Benzie,019
+MI,105,Ken Borton,Ken,NA,Borton,NA,100,1,0,0,NA,State House District 105,Roscommon,143
+MI,105,Christian Marcus,Christian,NA,Marcus,NA,100,0,0,0,NA,State House District 105,Roscommon,143
+MI,105,James Wojey,James,NA,Wojey,NA,200,0,0,0,NA,State House District 105,Roscommon,143
+MI,106,Cam Cavitt,Cam,NA,Cavitt,NA,100,1,0,0,NA,State House District 106,Presque Isle,141
+MI,106,Todd J Smalenberg,Todd,J,Smalenberg,NA,100,0,0,0,NA,State House District 106,Presque Isle,141
+MI,106,Mary Lucille Hamilton,Mary,Lucille,Hamilton,NA,200,0,0,0,NA,State House District 106,Presque Isle,141
+MI,106,Trina Borenstein,Trina,NA,Borenstein,NA,200,0,0,0,NA,State House District 106,Presque Isle,141
+MI,107,Neil Friske,Neil,NA,Friske,NA,100,1,0,0,NA,State House District 107,Mackinac,097
+MI,107,Jackson Emery Ingalls,Jackson,Emery,Ingalls,NA,100,0,1,0,NA,State House District 107,Mackinac,097
+MI,107,Parker Fairbairn,Parker,NA,Fairbairn,NA,100,0,0,0,NA,State House District 107,Mackinac,097
+MI,107,Jodi Decker,Jodi,NA,Decker,NA,200,0,0,0,NA,State House District 107,Mackinac,097
+MI,108,Dave Prestin,Dave,NA,Prestin,NA,100,1,0,0,NA,State House District 108,Delta,041
+MI,108,Christiana Reynolds,Christiana,NA,Reynolds,NA,200,0,0,0,NA,State House District 108,Delta,041
+MI,108,Kayla Wikstrom,Kayla,NA,Wikstrom,NA,300,0,0,0,Libertarian Party,State House District 108,Delta,041
+MI,109,Jenn Hill,Jenn,NA,Hill,NA,200,1,0,0,NA,State House District 109,Alger,003
+MI,109,Randy Girard,Randy,NA,Girard,NA,200,0,0,0,NA,State House District 109,Alger,003
+MI,109,Margaret Brumm,Margaret,NA,Brumm,NA,200,0,0,0,NA,State House District 109,Alger,003
+MI,109,Karl Bohnak,Karl,NA,Bohnak,NA,100,0,0,0,NA,State House District 109,Alger,003
+MI,109,Burt Mason,Burt,NA,Mason,NA,100,0,0,0,NA,State House District 109,Alger,003
+MI,109,Melody Wagner,Melody,NA,Wagner,NA,100,0,0,0,NA,State House District 109,Alger,003
+MI,109,George Meister,George,NA,Meister,NA,100,0,1,0,NA,State House District 109,Alger,003
+MI,110,Gregory J Markkanen,Gregory,J,Markkanen,NA,100,1,0,0,NA,State House District 110,Keweenaw,083
+MI,110,Kim S Corcoran,Kim,S,Corcoran,NA,200,0,0,0,NA,State House District 110,Keweenaw,083
+GA,1,John B Zibluk,John,B,Zibluk,NA,200,0,0,0,NA,State House District 1,Walker,295
+GA,1,Mike Cameron,Mike,NA,Cameron,NA,100,1,0,0,NA,State House District 1,Walker,295
+GA,2,Steve Tarvin,Steve,NA,Tarvin,NA,100,1,0,0,NA,State House District 2,Walker,295
+GA,3,Mitchell Horner,Mitchell,NA,Horner,NA,100,1,0,0,NA,State House District 3,Catoosa,047
+GA,4,Kasey Carpenter,Kasey,NA,Carpenter,NA,100,1,0,0,NA,State House District 4,Whitfield,313
+GA,5,Matt Barton,Matt,NA,Barton,NA,100,1,0,0,NA,State House District 5,Gordon,129
+GA,6,Cathy Kott,Cathy,NA,Kott,NA,200,0,0,0,NA,State House District 6,Murray,213
+GA,6,Jason T. Ridley,Jason,T.,Ridley,NA,100,1,0,0,NA,State House District 6,Murray,213
+GA,7,Johnny Chastain,Johnny,NA,Chastain,NA,100,1,0,0,NA,State House District 7,Gilmer,123
+GA,8,Charlotte Sleczkowski,Charlotte,NA,Sleczkowski,NA,200,0,0,0,NA,State House District 8,Union,291
+GA,8,Dick Mills,Dick,NA,Mills,NA,100,0,0,0,NA,State House District 8,Union,291
+GA,8,Stan Gunter,Stan,NA,Gunter,NA,100,1,0,0,NA,State House District 8,Union,291
+GA,9,William S. Wade,William,S.,Wade,NA,100,1,0,0,NA,State House District 9,Lumpkin,187
+GA,10,Paulette Williams,Paulette,NA,Williams,NA,200,0,0,0,NA,State House District 10,Rabun,241
+GA,10,Victor Anderson,Victor,NA,Anderson,NA,100,1,0,0,NA,State House District 10,Rabun,241
+GA,11,Kayla L. Hollifield,Kayla,L.,Hollifield,NA,200,0,0,0,NA,State House District 11,Pickens,227
+GA,11,Rick Jasperse,Rick,NA,Jasperse,NA,100,1,0,0,NA,State House District 11,Pickens,227
+GA,12,Eddie Lumsden,Eddie,NA,Lumsden,NA,100,1,0,0,NA,State House District 12,Floyd,115
+GA,12,Logan Johnson,Logan,NA,Johnson,NA,200,0,0,0,NA,State House District 12,Floyd,115
+GA,13,Katie Dempsey,Katie,NA,Dempsey,NA,100,1,0,0,NA,State House District 13,Floyd,115
+GA,13,Kevin Aronhalt,Kevin,NA,Aronhalt,NA,200,0,0,0,NA,State House District 13,Floyd,115
+GA,14,Mitchell L. Scoggins,Mitchell,L.,Scoggins,NA,100,1,0,0,NA,State House District 14,Bartow,015
+GA,15,Matthew Gambill,Matthew,NA,Gambill,NA,100,1,0,0,NA,State House District 15,Bartow,015
+GA,16,Trey Kelley,Trey,NA,Kelley,NA,100,1,0,0,NA,State House District 16,Polk,233
+GA,17,Martin Momtahan,Martin,NA,Momtahan,NA,100,1,0,0,NA,State House District 17,Paulding,223
+GA,18,Tyler Paul Smith,Tyler,Paul,Smith,NA,100,1,0,0,NA,State House District 18,Haralson,143
+GA,19,Joseph Gullett,Joseph,NA,Gullett,NA,100,1,0,0,NA,State House District 19,Paulding,223
+GA,19,RJ Coyle,RJ,NA,Coyle,NA,200,0,0,0,NA,State House District 19,Paulding,223
+GA,20,Charlice Byrd,Charlice,NA,Byrd,NA,100,1,0,0,NA,State House District 20,Cherokee,057
+GA,21,Brad Thomas,Brad,NA,Thomas,NA,100,1,0,0,NA,State House District 21,Cherokee,057
+GA,21,Gregg Kirkpatrick,Gregg,NA,Kirkpatrick,NA,100,0,0,0,NA,State House District 21,Cherokee,057
+GA,21,Mitchell Simmons,Mitchell,NA,Simmons,NA,200,0,0,0,NA,State House District 21,Cherokee,057
+GA,22,"James ""Jl"" Shade",James,Jl,Shade,NA,200,0,0,0,NA,State House District 22,Cherokee,057
+GA,22,Jordan Ridley,Jordan,NA,Ridley,NA,100,1,0,0,NA,State House District 22,Cherokee,057
+GA,22,Paul G. Kettering,Paul,G.,Kettering,NA,100,0,0,0,NA,State House District 22,Cherokee,057
+GA,23,Mandi Ballinger,Mandi,NA,Ballinger,NA,100,1,0,0,NA,State House District 23,Cherokee,057
+GA,24,Carter Barrett,Carter,NA,Barrett,NA,100,1,0,0,NA,State House District 24,Forsyth,117
+GA,24,Randye Dugan,Randye,NA,Dugan,NA,200,0,0,0,NA,State House District 24,Forsyth,117
+GA,25,Cary Lucas,Cary,NA,Lucas,NA,100,0,0,0,NA,State House District 25,Forsyth,117
+GA,25,Todd Jones,Todd,NA,Jones,NA,100,1,0,0,NA,State House District 25,Forsyth,117
+GA,25,Elaine Padgett,Elaine,NA,Padgett,NA,200,0,0,0,NA,State House District 25,Forsyth,117
+GA,26,Lakiea J. Bailey,Lakiea,J.,Bailey,NA,200,0,0,0,NA,State House District 26,Forsyth,117
+GA,26,Lauren Wylie McDonald III,Lauren,Wylie,McDonald,III,100,1,0,0,NA,State House District 26,Forsyth,117
+GA,27,Lee Hawkins,Lee,NA,Hawkins,NA,100,1,0,0,NA,State House District 27,Hall,139
+GA,28,Brent Cox,Brent,NA,Cox,NA,100,1,0,0,NA,State House District 28,Forsyth,117
+GA,28,Michael D. Henson,Michael,D.,Henson,NA,200,0,0,0,NA,State House District 28,Forsyth,117
+GA,29,Matt Dubnik,Matt,NA,Dubnik,NA,100,1,0,0,NA,State House District 29,Hall,139
+GA,30,Derrick McCollum,Derrick,NA,McCollum,NA,100,1,0,0,NA,State House District 30,Hall,139
+GA,30,Norine Cantor,Norine,NA,Cantor,NA,100,0,0,0,NA,State House District 30,Hall,139
+GA,30,Kim Larkin-Floria,Kim,NA,Larkin-Floria,NA,200,0,0,0,NA,State House District 30,Hall,139
+GA,31,Emory West Dunahoo Jr,Emory,West,Dunahoo,Jr,100,1,0,0,NA,State House District 31,Jackson,157
+GA,32,Chris Erwin,Chris,NA,Erwin,NA,100,1,0,0,NA,State House District 32,Banks,011
+GA,33,Alan Powell,Alan,NA,Powell,NA,100,1,0,0,NA,State House District 33,Franklin,119
+GA,34,Devan Seabaugh,Devan,NA,Seabaugh,NA,100,1,0,0,NA,State House District 34,Cobb,067
+GA,34,Karl Gallegos,Karl,NA,Gallegos,NA,200,0,0,0,NA,State House District 34,Cobb,067
+GA,35,Gary Cecil Chaffee,Gary,Cecil,Chaffee,NA,100,0,0,0,NA,State House District 35,Cobb,067
+GA,35,Lisa Gayle Campbell,Lisa,Gayle,Campbell,NA,200,1,0,0,NA,State House District 35,Cobb,067
+GA,36,James F Ryner,James,F,Ryner,NA,200,0,1,0,NA,State House District 36,Cobb,067
+GA,36,Steven Lang,Steven,NA,Lang,NA,200,0,1,0,NA,State House District 36,Cobb,067
+GA,36,Ginny Ehrhart,Ginny,NA,Ehrhart,NA,100,1,0,0,NA,State House District 36,Cobb,067
+GA,37,Mary Frances Williams,Mary,Frances,Williams,NA,200,1,0,0,NA,State House District 37,Cobb,067
+GA,37,Shea Taylor,Shea,NA,Taylor,NA,100,0,0,0,NA,State House District 37,Cobb,067
+GA,38,David Lawrence Wilkerson,David,Lawrence,Wilkerson,NA,200,1,0,0,NA,State House District 38,Cobb,067
+GA,38,Martine Claude Maignan,Martine,Claude,Maignan,NA,200,0,0,0,NA,State House District 38,Cobb,067
+GA,39,Terry Cummings,Terry,NA,Cummings,NA,200,1,0,0,NA,State House District 39,Cobb,067
+GA,40,Abby Amore,Abby,NA,Amore,NA,200,0,0,0,NA,State House District 40,Cobb,067
+GA,40,Montenia Edwards,Montenia,NA,Edwards,NA,200,0,0,0,NA,State House District 40,Cobb,067
+GA,40,Kimberly R. New,Kimberly,R.,New,NA,100,1,0,0,NA,State House District 40,Cobb,067
+GA,41,Andrea Smith,Andrea,NA,Smith,NA,100,0,0,0,NA,State House District 41,Cobb,067
+GA,41,Michael Smith,Michael,NA,Smith,NA,200,1,0,0,NA,State House District 41,Cobb,067
+GA,42,Diane E. Jackson,Diane,E.,Jackson,NA,100,0,0,0,NA,State House District 42,Cobb,067
+GA,42,Gabriel Sanchez,Gabriel,NA,Sanchez,NA,200,0,0,0,NA,State House District 42,Cobb,067
+GA,42,Teri Anulewicz,Teri,NA,Anulewicz,NA,200,1,0,0,NA,State House District 42,Cobb,067
+GA,43,Solomon Adesanya,Solomon,NA,Adesanya,NA,200,1,0,0,NA,State House District 43,Cobb,067
+GA,44,Danielle Bell,Danielle,NA,Bell,NA,200,0,0,0,NA,State House District 44,Cobb,067
+GA,44,Don L. Parsons,Don,L.,Parsons,NA,100,1,0,0,NA,State House District 44,Cobb,067
+GA,45,Eric Castater,Eric,NA,Castater,NA,200,0,0,0,NA,State House District 45,Cobb,067
+GA,45,Sharon Cooper,Sharon,NA,Cooper,NA,100,1,0,0,NA,State House District 45,Cobb,067
+GA,46,John K. Carson,John,K.,Carson,NA,100,1,0,0,NA,State House District 46,Cobb,067
+GA,46,Micheal Garza,Micheal,NA,Garza,NA,200,0,0,0,NA,State House District 46,Cobb,067
+GA,47,Anthia Carter,Anthia,NA,Carter,NA,200,0,0,0,NA,State House District 47,Fulton,121
+GA,47,Debra Shigley,Debra,NA,Shigley,NA,200,0,0,0,NA,State House District 47,Fulton,121
+GA,47,Jan Jones,Jan,NA,Jones,NA,100,1,0,0,NA,State House District 47,Fulton,121
+GA,47,"P. ""Phoebe"" Eckhardt",P.,Phoebe,Eckhardt,NA,100,0,0,0,NA,State House District 47,Fulton,121
+GA,48,Laura Murvartian,Laura,NA,Murvartian,NA,200,0,0,0,NA,State House District 48,Fulton,121
+GA,48,Scott Hilton,Scott,NA,Hilton,NA,100,1,0,0,NA,State House District 48,Fulton,121
+GA,49,Charles Squires,Charles,NA,Squires,NA,200,0,0,0,NA,State House District 49,Fulton,121
+GA,49,Grace Demit,Grace,NA,Demit,NA,200,0,0,0,NA,State House District 49,Fulton,121
+GA,49,Chuck Martin,Chuck,NA,Martin,NA,100,1,0,0,NA,State House District 49,Fulton,121
+GA,49,Michael Gordon,Michael,NA,Gordon,NA,100,0,0,0,NA,State House District 49,Fulton,121
+GA,50,Michelle Au,Michelle,NA,Au,NA,200,1,0,0,NA,State House District 50,Fulton,121
+GA,50,Narender Reddy,Narender,NA,Reddy,NA,100,0,0,0,NA,State House District 50,Fulton,121
+GA,51,Derek Keith Gettmann,Derek,Keith,Gettmann,NA,100,0,0,0,NA,State House District 51,Fulton,121
+GA,51,Esther Panitch,Esther,NA,Panitch,NA,200,1,0,0,NA,State House District 51,Fulton,121
+GA,52,Robert Brandon McNeily,Robert,Brandon,McNeily,NA,100,0,0,0,NA,State House District 52,Fulton,121
+GA,52,Shea Roberts,Shea,NA,Roberts,NA,200,1,0,0,NA,State House District 52,Fulton,121
+GA,53,Deborah Silcox,Deborah,NA,Silcox,NA,100,1,0,0,NA,State House District 53,Fulton,121
+GA,53,Susie Greenberg,Susie,NA,Greenberg,NA,200,0,0,0,NA,State House District 53,Fulton,121
+GA,54,Betsy Holland,Betsy,NA,Holland,NA,200,1,0,0,NA,State House District 54,Fulton,121
+GA,54,"Samantha ""Sam"" Brown-Parks",Samantha,Sam,Brown-Parks,NA,100,0,0,0,NA,State House District 54,Fulton,121
+GA,55,Inga S. Willis,Inga,S.,Willis,NA,200,1,0,0,NA,State House District 55,Fulton,121
+GA,55,Samuel S. Lenaeus,Samuel,S.,Lenaeus,NA,100,0,0,0,NA,State House District 55,Fulton,121
+GA,56,Adalina 'Ada' Merello,Adalina,Ada',Merello,NA,200,0,0,0,NA,State House District 56,Fulton,121
+GA,56,Bryce Berry,Bryce,NA,Berry,NA,200,0,0,0,NA,State House District 56,Fulton,121
+GA,56,Corwin CP Monson,Corwin,CP,Monson,NA,200,0,0,0,NA,State House District 56,Fulton,121
+GA,56,Dawn Samad,Dawn,NA,Samad,NA,200,0,0,0,NA,State House District 56,Fulton,121
+GA,56,"William ""Leonard"" Watkins",William,Leonard,Watkins,NA,200,0,0,0,NA,State House District 56,Fulton,121
+GA,56,Mesha K. Mainor,Mesha,K.,Mainor,NA,100,1,0,0,NA,State House District 56,Fulton,121
+GA,57,Julie Allen,Julie,NA,Allen,NA,100,0,0,0,NA,State House District 57,Fulton,121
+GA,57,Stacey Evans,Stacey,NA,Evans,NA,200,1,0,0,NA,State House District 57,Fulton,121
+GA,58,Park Elizabeth Cannon,Park,Elizabeth,Cannon,NA,200,1,0,0,NA,State House District 58,Fulton,121
+GA,59,Maurice Mpayamaguru,Maurice,NA,Mpayamaguru,NA,100,0,0,0,NA,State House District 59,Fulton,121
+GA,59,Phil Olaleye,Phil,NA,Olaleye,NA,200,1,0,0,NA,State House District 59,Fulton,121
+GA,60,Cathy G. Henson,Cathy,G.,Henson,NA,100,0,0,0,NA,State House District 60,Fulton,121
+GA,60,Diane Clair,Diane,NA,Clair,NA,200,0,0,0,NA,State House District 60,Fulton,121
+GA,60,Sheila Jones,Sheila,NA,Jones,NA,200,1,0,0,NA,State House District 60,Fulton,121
+GA,61,De'Lonn Brown,De'Lonn,NA,Brown,NA,200,0,0,0,NA,State House District 61,Douglas,097
+GA,61,Mekyah McQueen,Mekyah,NA,McQueen,NA,200,0,0,0,NA,State House District 61,Douglas,097
+GA,62,Tanya F. Miller,Tanya,F.,Miller,NA,200,1,0,0,NA,State House District 62,Fulton,121
+GA,63,Kim Schofield,Kim,NA,Schofield,NA,200,1,0,0,NA,State House District 63,Fulton,121
+GA,64,Cassaundra Burks,Cassaundra,NA,Burks,NA,100,0,0,0,NA,State House District 64,Douglas,097
+GA,64,Sylvia Wayfer Baker,Sylvia,Wayfer,Baker,NA,200,0,0,0,NA,State House District 64,Douglas,097
+GA,65,De'Andre S. Pickett,De'Andre,S.,Pickett,NA,200,0,0,0,NA,State House District 65,Fulton,121
+GA,65,Mel Keyton,Mel,NA,Keyton,NA,200,0,0,0,NA,State House District 65,Fulton,121
+GA,65,Robert Dawson,Robert,NA,Dawson,NA,200,0,0,0,NA,State House District 65,Fulton,121
+GA,65,Sam Wakefield,Sam,NA,Wakefield,NA,200,0,0,0,NA,State House District 65,Fulton,121
+GA,66,Kimberly Alexander,Kimberly,NA,Alexander,NA,200,1,0,0,NA,State House District 66,Douglas,097
+GA,67,Kevin G. Smith,Kevin,G.,Smith,NA,100,0,0,0,NA,State House District 67,Fulton,121
+GA,67,Lydia Glaize,Lydia,NA,Glaize,NA,200,1,0,0,NA,State House District 67,Fulton,121
+GA,67,Matthew Hammett,Matthew,NA,Hammett,NA,100,0,0,0,NA,State House District 67,Fulton,121
+GA,68,Derrick L. Jackson,Derrick,L.,Jackson,NA,200,1,0,0,NA,State House District 68,Fayette,113
+GA,69,Bobby B. Ferrell,Bobby,B.,Ferrell,NA,200,0,0,0,NA,State House District 69,Fayette,113
+GA,69,Cobie Lyrix Brown,Cobie,Lyrix,Brown,NA,200,0,0,0,NA,State House District 69,Fayette,113
+GA,69,Debra Bazemore,Debra,NA,Bazemore,NA,200,1,0,0,NA,State House District 69,Fayette,113
+GA,69,Jared Daigre,Jared,NA,Daigre,NA,200,0,0,0,NA,State House District 69,Fayette,113
+GA,69,Ray Mills,Ray,NA,Mills,NA,200,0,0,0,NA,State House District 69,Fayette,113
+GA,70,Diane Boulai,Diane,NA,Boulai,NA,200,0,0,0,NA,State House District 70,Coweta,077
+GA,70,Lynn Smith,Lynn,NA,Smith,NA,100,1,0,0,NA,State House District 70,Coweta,077
+GA,71,"Justin ""Jutt"" Howard",Justin,Jutt,Howard,NA,100,0,0,0,NA,State House District 71,Carroll,045
+GA,71,Marc Lattanzio,Marc,NA,Lattanzio,NA,100,0,0,0,NA,State House District 71,Carroll,045
+GA,71,Kwasi Hudson,Kwasi,NA,Hudson,NA,200,0,0,0,NA,State House District 71,Carroll,045
+GA,72,David Huddleston,David,NA,Huddleston,NA,100,1,0,0,NA,State House District 72,Heard,149
+GA,72,Rodney R. Moore,Rodney,R.,Moore,NA,200,0,0,0,NA,State House District 72,Heard,149
+GA,73,Josh Bonner,Josh,NA,Bonner,NA,100,1,0,0,NA,State House District 73,Coweta,077
+GA,73,Tim Wilkinson,Tim,NA,Wilkinson,NA,200,0,0,0,NA,State House District 73,Coweta,077
+GA,73,Tom Thomason,Tom,NA,Thomason,NA,200,0,0,0,NA,State House District 73,Coweta,077
+GA,74,Maggy Martinez,Maggy,NA,Martinez,NA,200,0,0,0,NA,State House District 74,Spalding,255
+GA,74,Robert Flournoy Jr,Robert,NA,Flournoy,Jr,200,0,0,0,NA,State House District 74,Spalding,255
+GA,75,Eric W. Bell II,Eric,W.,Bell,II,200,1,0,0,NA,State House District 75,Clayton,063
+GA,75,Michael Glanton Jr.,Michael,Glanton,Jr.,NA,200,0,0,0,NA,State House District 75,Clayton,063
+GA,76,Sandra Givens Scott,Sandra,Givens,Scott,NA,200,1,0,0,NA,State House District 76,Clayton,063
+GA,77,Rhonda Michelle Burnough,Rhonda,Michelle,Burnough,NA,200,1,0,0,NA,State House District 77,Clayton,063
+GA,78,Demetrius Douglas,Demetrius,NA,Douglas,NA,200,1,0,0,NA,State House District 78,Clayton,063
+GA,79,Yasmin Neal,Yasmin,NA,Neal,NA,200,1,0,0,NA,State House District 79,Clayton,063
+GA,80,Brian Anderson,Brian,NA,Anderson,NA,100,0,0,0,NA,State House District 80,DeKalb,089
+GA,80,Long Tran,Long,NA,Tran,NA,200,1,0,0,NA,State House District 80,DeKalb,089
+GA,81,Lauren Daniel,Lauren,NA,Daniel,NA,100,1,0,0,NA,State House District 81,DeKalb,089
+GA,81,Noelle Kahaian,Noelle,NA,Kahaian,NA,100,0,0,0,NA,State House District 81,DeKalb,089
+GA,81,Mishael White,Mishael,NA,White,NA,200,0,0,0,NA,State House District 81,DeKalb,089
+GA,82,Anthony Dickson,Anthony,NA,Dickson,NA,200,0,0,0,NA,State House District 82,DeKalb,089
+GA,82,Karen I. Mathiak,Karen,I.,Mathiak,NA,100,1,0,0,NA,State House District 82,DeKalb,089
+GA,83,Catherine S. Bernard,Catherine,S.,Bernard,NA,100,0,0,0,NA,State House District 83,DeKalb,089
+GA,83,Karen Lupton,Karen,NA,Lupton,NA,200,1,0,0,NA,State House District 83,DeKalb,089
+GA,84,Hunter Kemp,Hunter,NA,Kemp,NA,200,0,0,0,NA,State House District 84,DeKalb,089
+GA,84,Mary Margaret Oliver,Mary,Margaret,Oliver,NA,200,1,0,0,NA,State House District 84,DeKalb,089
+GA,85,Karla L. Drenner,Karla,L.,Drenner,NA,200,1,0,0,NA,State House District 85,DeKalb,089
+GA,86,"Barry ""Z"" Zisholtz",Barry,Z,Zisholtz,NA,100,0,0,0,NA,State House District 86,DeKalb,089
+GA,86,Imani Barnes,Imani,NA,Barnes,NA,200,1,0,0,NA,State House District 86,DeKalb,089
+GA,87,Viola Davis,Viola,NA,Davis,NA,200,1,0,0,NA,State House District 87,DeKalb,089
+GA,88,Billy Mitchell,Billy,NA,Mitchell,NA,200,1,0,0,NA,State House District 88,DeKalb,089
+GA,88,William Park Freeman,William,Park,Freeman,NA,100,0,0,0,NA,State House District 88,DeKalb,089
+GA,89,Omari Crawford,Omari,NA,Crawford,NA,200,1,0,0,NA,State House District 89,DeKalb,089
+GA,90,Becky Evans,Becky,NA,Evans,NA,200,1,0,0,NA,State House District 90,DeKalb,089
+GA,90,Saira Draper,Saira,NA,Draper,NA,200,1,0,0,NA,State House District 90,DeKalb,089
+GA,91,Angela Moore,Angela,NA,Moore,NA,200,1,0,0,NA,State House District 91,Henry,151
+GA,91,Dee Dawkins-Haigler,Dee,NA,Dawkins-Haigler,NA,200,0,0,0,NA,State House District 91,Henry,151
+GA,91,Marcus Akins,Marcus,NA,Akins,NA,200,0,0,0,NA,State House District 91,Henry,151
+GA,92,Rhonda S. Taylor,Rhonda,S.,Taylor,NA,200,1,0,0,NA,State House District 92,Rockdale,247
+GA,93,Doreen Carter,Doreen,NA,Carter,NA,200,1,0,0,NA,State House District 93,Newton,217
+GA,94,Karen L. Bennett,Karen,L.,Bennett,NA,200,1,0,0,NA,State House District 94,Gwinnett,135
+GA,95,Dar'Shun Nicole Kendrick,Dar'Shun,Nicole,Kendrick,NA,200,1,0,0,NA,State House District 95,Rockdale,247
+GA,96,Arlene Beckles,Arlene,NA,Beckles,NA,200,0,0,0,NA,State House District 96,Gwinnett,135
+GA,96,Neva Thompson,Neva,NA,Thompson,NA,200,0,0,0,NA,State House District 96,Gwinnett,135
+GA,96,Sonia Lopez,Sonia,NA,Lopez,NA,200,0,0,0,NA,State House District 96,Gwinnett,135
+GA,97,Michael Allen Corbin,Michael,Allen,Corbin,NA,100,0,0,0,NA,State House District 97,Gwinnett,135
+GA,97,Ruwa Romman,Ruwa,NA,Romman,NA,200,1,0,0,NA,State House District 97,Gwinnett,135
+GA,98,Jorge Luis Granados,Jorge,Luis,Granados,NA,200,0,0,0,NA,State House District 98,Gwinnett,135
+GA,98,Marvin Lim,Marvin,NA,Lim,NA,200,1,0,0,NA,State House District 98,Gwinnett,135
+GA,99,Matt Reeves,Matt,NA,Reeves,NA,100,1,0,0,NA,State House District 99,Gwinnett,135
+GA,99,Michelle Kang,Michelle,NA,Kang,NA,200,0,0,0,NA,State House District 99,Gwinnett,135
+GA,100,David Clark,David,NA,Clark,NA,100,1,0,0,NA,State House District 100,Gwinnett,135
+GA,100,Michael Day,Michael,NA,Day,NA,100,0,0,0,NA,State House District 100,Gwinnett,135
+GA,100,Jennifer Ambler,Jennifer,NA,Ambler,NA,200,0,0,0,NA,State House District 100,Gwinnett,135
+GA,101,Kendra Biegalski,Kendra,NA,Biegalski,NA,100,0,0,0,NA,State House District 101,Gwinnett,135
+GA,101,Scott Holcomb,Scott,NA,Holcomb,NA,200,1,0,0,NA,State House District 101,Gwinnett,135
+GA,102,Gabe Okoye,Gabe,NA,Okoye,NA,200,1,0,0,NA,State House District 102,Gwinnett,135
+GA,102,J. Scott Vandiver,J.,Scott,Vandiver,NA,100,0,0,0,NA,State House District 102,Gwinnett,135
+GA,103,Chris Luchey,Chris,NA,Luchey,NA,200,0,0,0,NA,State House District 103,Gwinnett,135
+GA,103,Soo Hong,Soo,NA,Hong,NA,100,1,0,0,NA,State House District 103,Gwinnett,135
+GA,104,Chuck Efstration,Chuck,NA,Efstration,NA,100,1,0,0,NA,State House District 104,Barrow,013
+GA,105,Farooq Mughal,Farooq,NA,Mughal,NA,200,1,0,0,NA,State House District 105,Gwinnett,135
+GA,105,Sandy Donatucci,Sandy,NA,Donatucci,NA,100,0,0,0,NA,State House District 105,Gwinnett,135
+GA,106,Shelly Hutchinson,Shelly,NA,Hutchinson,NA,200,1,0,0,NA,State House District 106,Gwinnett,135
+GA,107,Hai Cao,Hai,NA,Cao,NA,100,0,0,0,NA,State House District 107,Gwinnett,135
+GA,107,Sam Park,Sam,NA,Park,NA,200,1,0,0,NA,State House District 107,Gwinnett,135
+GA,108,Elvia Davila,Elvia,NA,Davila,NA,100,0,0,0,NA,State House District 108,Gwinnett,135
+GA,108,Jasmine Clark,Jasmine,NA,Clark,NA,200,1,0,0,NA,State House District 108,Gwinnett,135
+GA,109,Dewey L. McClain,Dewey,L.,McClain,NA,200,1,0,0,NA,State House District 109,Gwinnett,135
+GA,110,Charles Lollar,Charles,NA,Lollar,NA,100,0,0,0,NA,State House District 110,Gwinnett,135
+GA,110,Segun Adeyina,Segun,NA,Adeyina,NA,200,1,0,0,NA,State House District 110,Gwinnett,135
+GA,111,Rey Martinez,Rey,NA,Martinez,NA,100,1,0,0,NA,State House District 111,Walton,297
+GA,111,Scott T. Jackson,Scott,T.,Jackson,NA,200,0,0,0,NA,State House District 111,Walton,297
+GA,112,Bruce Williamson,Bruce,NA,Williamson,NA,100,1,0,0,NA,State House District 112,Walton,297
+GA,113,Karla Daniels Hooper,Karla,Daniels,Hooper,NA,200,0,0,0,NA,State House District 113,Newton,217
+GA,113,Sharon Henderson,Sharon,NA,Henderson,NA,200,1,0,0,NA,State House District 113,Newton,217
+GA,114,Tim Fleming,Tim,NA,Fleming,NA,100,1,0,0,NA,State House District 114,Morgan,211
+GA,115,Regina Lewis-Ward,Regina,NA,Lewis-Ward,NA,200,1,0,0,NA,State House District 115,Henry,151
+GA,116,El-Mahdi Holly,El-Mahdi,NA,Holly,NA,200,1,0,0,NA,State House District 116,Henry,151
+GA,116,Reign Stevens,Reign,NA,Stevens,NA,100,0,0,0,NA,State House District 116,Henry,151
+GA,117,Mary Ann Santos,Mary,Ann,Santos,NA,200,0,0,0,NA,State House District 117,Henry,151
+GA,118,Clint Crowe,Clint,NA,Crowe,NA,100,1,0,0,NA,State House District 118,Jasper,159
+GA,118,Sharonda Bell,Sharonda,NA,Bell,NA,200,0,0,0,NA,State House District 118,Jasper,159
+GA,119,Holt Persinger,Holt,NA,Persinger,NA,100,1,0,0,NA,State House District 119,Barrow,013
+GA,120,Andrew Ferguson,Andrew,NA,Ferguson,NA,200,0,0,0,NA,State House District 120,Jackson,157
+GA,120,Houston Gaines,Houston,NA,Gaines,NA,100,1,0,0,NA,State House District 120,Jackson,157
+GA,121,Courtney Frisch,Courtney,NA,Frisch,NA,200,0,0,0,NA,State House District 121,Oconee,219
+GA,121,John Michael Grigsby,John,Michael,Grigsby,NA,100,0,0,0,NA,State House District 121,Oconee,219
+GA,121,Marcus A. Wiedower,Marcus,A.,Wiedower,NA,100,1,0,0,NA,State House District 121,Oconee,219
+GA,122,Spencer Frye,Spencer,NA,Frye,NA,200,1,0,0,NA,State House District 122,Clarke,059
+GA,123,Hope S. Beard,Hope,S.,Beard,NA,200,0,0,0,NA,State House District 123,Wilkes,317
+GA,123,Rob Leverett,Rob,NA,Leverett,NA,100,1,0,0,NA,State House District 123,Wilkes,317
+GA,124,Melanie M Miller,Melanie,M,Miller,NA,200,0,0,0,NA,State House District 124,Oglethorpe,221
+GA,124,Rickie Glenn,Rickie,NA,Glenn,NA,200,0,0,0,NA,State House District 124,Oglethorpe,221
+GA,124,Trey Rhodes,Trey,NA,Rhodes,NA,100,1,0,0,NA,State House District 124,Oglethorpe,221
+GA,125,Gary Richardson,Gary,NA,Richardson,NA,100,0,0,0,NA,State House District 125,Columbia,073
+GA,125,CJ Pearson,CJ,NA,Pearson,NA,100,0,1,0,NA,State House District 125,Columbia,073
+GA,125,Kay Turner,Kay,NA,Turner,NA,200,0,0,0,NA,State House District 125,Columbia,073
+GA,126,L C Myles Jr,L,C,Myles,Jr,200,0,0,0,NA,State House District 126,Burke,033
+GA,126,William C. Harris,William,C.,Harris,NA,100,0,0,0,NA,State House District 126,Burke,033
+GA,127,Mark Newton,Mark,NA,Newton,NA,100,1,0,0,NA,State House District 127,Columbia,073
+GA,128,Mack Jackson,Mack,NA,Jackson,NA,200,1,0,0,NA,State House District 128,Washington,303
+GA,128,Tracy Wheeler,Tracy,NA,Wheeler,NA,100,0,0,0,NA,State House District 128,Washington,303
+GA,129,Karlton L. Howard,Karlton,L.,Howard,NA,200,1,0,0,NA,State House District 129,Richmond,245
+GA,129,Scott Cambers,Scott,NA,Cambers,NA,200,0,0,0,NA,State House District 129,Richmond,245
+GA,130,Lynn Gladney,Lynn,NA,Gladney,NA,200,1,0,0,NA,State House District 130,Richmond,245
+GA,131,Benjamin Shawn Cairns,Benjamin,Shawn,Cairns,NA,100,0,0,0,NA,State House District 131,Columbia,073
+GA,131,David Christian Byrne,David,Christian,Byrne,NA,100,0,0,0,NA,State House District 131,Columbia,073
+GA,131,Paul Abbott,Paul,NA,Abbott,NA,100,0,0,0,NA,State House District 131,Columbia,073
+GA,131,Rob Clifton,Rob,NA,Clifton,NA,100,0,0,0,NA,State House District 131,Columbia,073
+GA,131,Russell A. Wilder,Russell,A.,Wilder,NA,100,0,0,0,NA,State House District 131,Columbia,073
+GA,131,Heather Rose White,Heather,Rose,White,NA,200,0,0,0,NA,State House District 131,Columbia,073
+GA,132,Brian L. Prince,Brian,L.,Prince,NA,200,1,0,0,NA,State House District 132,Jefferson,163
+GA,133,Danny Mathis,Danny,NA,Mathis,NA,100,1,0,0,NA,State House District 133,Jones,169
+GA,134,Joshua Lewis,Joshua,NA,Lewis,NA,100,0,0,0,NA,State House District 134,Monroe,207
+GA,134,Robert L. Dickey III,Robert,L.,Dickey,III,100,1,0,0,NA,State House District 134,Monroe,207
+GA,135,Beth Camp,Beth,NA,Camp,NA,100,1,0,0,NA,State House District 135,Upson,293
+GA,136,David Jenkins,David,NA,Jenkins,NA,100,1,0,0,NA,State House District 136,Meriwether,199
+GA,136,Jeff Lowe,Jeff,NA,Lowe,NA,200,0,0,0,NA,State House District 136,Meriwether,199
+GA,136,Michael J. Riesen,Michael,J.,Riesen,NA,100,0,0,0,NA,State House District 136,Meriwether,199
+GA,137,Carlton Mahone Sr,Carlton,Mahone,Sr,NA,200,0,0,0,NA,State House District 137,Talbot,263
+GA,137,Debbie G. Buckner,Debbie,G.,Buckner,NA,200,1,0,0,NA,State House District 137,Talbot,263
+GA,137,Stephen Acorn,Stephen,NA,Acorn,NA,100,0,0,0,NA,State House District 137,Talbot,263
+GA,138,Vance C. Smith Jr,Vance,C.,Smith,Jr,100,1,0,0,NA,State House District 138,Harris,145
+GA,139,Carl Sprayberry,Carl,NA,Sprayberry,NA,200,0,0,0,NA,State House District 139,Harris,145
+GA,139,Carmen Rice,Carmen,NA,Rice,NA,100,0,0,0,NA,State House District 139,Harris,145
+GA,139,Donald R. Moeller,Donald,R,Moeller,NA,100,0,0,0,NA,State House District 139,Harris,145
+GA,139,Sean Knox,Sean,NA,Knox,NA,100,0,0,0,NA,State House District 139,Harris,145
+GA,139,Robert Mallard,Robert,NA,Mallard,NA,300,0,0,0,Independent Write-In,State House District 139,Harris,145
+GA,140,Alyssa Nia Williams,Alyssa,Nia,Williams,NA,200,0,0,0,NA,State House District 140,Muscogee,215
+GA,140,Tremaine Teddy Reese,Tremaine,Teddy,Reese,NA,200,1,0,0,NA,State House District 140,Muscogee,215
+GA,141,Carolyn F. Hugley,Carolyn,F.,Hugley,NA,200,1,0,0,NA,State House District 141,Muscogee,215
+GA,142,Calvin Dennis Palmer,Calvin,Dennis,Palmer,NA,100,0,0,0,NA,State House District 142,Bibb,021
+GA,142,Miriam Paris,Miriam,NA,Paris,NA,200,1,0,0,NA,State House District 142,Bibb,021
+GA,143,Anissa Jones,Anissa,NA,Jones,NA,200,0,0,0,NA,State House District 143,Bibb,021
+GA,143,Barbara Boyer,Barbara,NA,Boyer,NA,100,0,0,0,NA,State House District 143,Bibb,021
+GA,144,Anita Hyland,Anita,NA,Hyland,NA,200,0,0,0,NA,State House District 144,Monroe,207
+GA,144,Dale Washburn,Dale,NA,Washburn,NA,100,1,0,0,NA,State House District 144,Monroe,207
+GA,145,Donald L. Druitt Sr,Donald,L.,Druitt,Sr,200,0,0,0,NA,State House District 145,Crawford,079
+GA,145,Juawn Jackson,Juawn,NA,Jackson,NA,200,0,0,0,NA,State House District 145,Crawford,079
+GA,145,Tangie Herring,Tangie,NA,Herring,NA,200,0,0,0,NA,State House District 145,Crawford,079
+GA,145,De'Ron Rogers,De'Ron,NA,Rogers,NA,100,0,0,0,NA,State House District 145,Crawford,079
+GA,145,Nancy Hicks,Nancy,NA,Hicks,NA,100,0,0,0,NA,State House District 145,Crawford,079
+GA,145,Noah Redding Harbuck,Noah,Redding,Harbuck,NA,100,0,0,0,NA,State House District 145,Crawford,079
+GA,146,Shaw Blackmon,Shaw,NA,Blackmon,NA,100,1,0,0,NA,State House District 146,Houston,153
+GA,147,Ariel Phillips,Ariel,NA,Phillips,NA,200,0,0,0,NA,State House District 147,Houston,153
+GA,147,Bethany Ballard,Bethany,NA,Ballard,NA,100,1,0,0,NA,State House District 147,Houston,153
+GA,148,Noel W. Williams Jr,Noel,W.,Williams,Jr,100,1,0,0,NA,State House District 148,Wilcox,315
+GA,149,Floyd Griffin,Floyd,NA,Griffin,NA,200,0,0,0,NA,State House District 149,Dodge,091
+GA,149,Ken Vance,Ken,NA,Vance,NA,100,1,0,0,NA,State House District 149,Dodge,091
+GA,149,Phyllis Tufts Hightower,Phyllis,Tufts,Hightower,NA,200,0,0,0,NA,State House District 149,Dodge,091
+GA,150,Cary Moore,Cary,NA,Moore,NA,100,0,0,0,NA,State House District 150,Macon,193
+GA,150,Patty Marie Stinson,Patty,Marie,Stinson,NA,200,1,0,0,NA,State House District 150,Macon,193
+GA,151,Mike Cheokas,Mike,NA,Cheokas,NA,100,1,0,0,NA,State House District 151,Stewart,259
+GA,152,"William J. ""Bill"" Yearta",William,"J. ""Bill""",Yearta,NA,100,1,0,0,NA,State House District 152,Worth,321
+GA,153,Brenda Battle,Brenda,NA,Battle,NA,100,0,0,0,NA,State House District 153,Dougherty,095
+GA,153,David Sampson,David,NA,Sampson,NA,200,1,0,0,NA,State House District 153,Dougherty,095
+GA,153,Joshua Anthony,Joshua,NA,Anthony,NA,200,0,0,0,NA,State House District 153,Dougherty,095
+GA,153,Tracy Taylor,Tracy,NA,Taylor,NA,200,0,0,0,NA,State House District 153,Dougherty,095
+GA,154,Gerald E. Greene,Gerald,E.,Greene,NA,100,1,0,0,NA,State House District 154,Early,099
+GA,154,Othellious Cato,Othellious,NA,Cato,NA,200,0,0,0,NA,State House District 154,Early,099
+GA,155,Matt Hatchett,Matt,NA,Hatchett,NA,100,1,0,0,NA,State House District 155,Laurens,175
+GA,156,Leesa Hagan,Leesa,NA,Hagan,NA,100,1,0,0,NA,State House District 156,Toombs,279
+GA,157,"William ""Bill"" Werkheiser",William,Bill,Werkheiser,NA,100,1,0,0,NA,State House District 157,Tattnall,267
+GA,158,Butch Parrish,Butch,NA,Parrish,NA,100,1,0,0,NA,State House District 158,Emanuel,107
+GA,158,Madeline Ryan Smith,Madeline,Ryan,Smith,NA,200,0,0,0,NA,State House District 158,Emanuel,107
+GA,159,Jon G. Burns,Jon,G.,Burns,NA,100,1,0,0,NA,State House District 159,Screven,251
+GA,160,Lehman Franklin,Lehman,NA,Franklin,NA,100,1,0,0,NA,State House District 160,Bulloch,031
+GA,161,Bill Hitchens,Bill,NA,Hitchens,NA,100,1,0,0,NA,State House District 161,Effingham,103
+GA,162,Carl W. Gilliard,Carl,W.,Gilliard,NA,200,1,0,0,NA,State House District 162,Chatham,051
+GA,162,Keith Padgett,Keith,NA,Padgett,NA,100,0,0,0,NA,State House District 162,Chatham,051
+GA,162,Tami Williams,Tami,NA,Williams,NA,100,0,0,0,NA,State House District 162,Chatham,051
+GA,163,Anne Allen Westbrook,Anne,Allen,Westbrook,NA,200,1,0,0,NA,State House District 163,Chatham,051
+GA,164,Ron Stephens,Ron,NA,Stephens,NA,100,1,0,0,NA,State House District 164,Bryan,029
+GA,165,Edna Jackson,Edna,NA,Jackson,NA,200,1,0,0,NA,State House District 165,Chatham,051
+GA,166,Gay Fortson,Gay,NA,Fortson,NA,200,0,0,0,NA,State House District 166,Chatham,051
+GA,166,Jesse L. Petrea,Jesse,L.,Petrea,NA,100,1,0,0,NA,State House District 166,Chatham,051
+GA,167,Buddy DeLoach,Buddy,NA,DeLoach,NA,100,1,0,0,NA,State House District 167,McIntosh,191
+GA,167,Rebekah Moore,Rebekah,NA,Moore,NA,200,0,0,0,NA,State House District 167,McIntosh,191
+GA,168,Al Williams,Al,NA,Williams,NA,200,1,0,0,NA,State House District 168,Liberty,179
+GA,168,Henry L. Covington,Henry,L.,Covington,NA,200,0,0,0,NA,State House District 168,Liberty,179
+GA,169,Angie O'Steen,Angie,NA,O'Steen,NA,100,0,0,0,NA,State House District 169,Coffee,069
+GA,169,Theresa R. Rewis,Theresa,R.,Rewis,NA,200,0,0,0,NA,State House District 169,Coffee,069
+GA,169,William E. Roberts,William,E.,Roberts,NA,100,0,0,0,NA,State House District 169,Coffee,069
+GA,170,Donny Roberson,Donny,NA,Roberson,NA,100,0,0,0,NA,State House District 170,Berrien,019
+GA,170,Jaclyn Dixon Ford,Jaclyn,Dixon,Ford,NA,100,0,0,0,NA,State House District 170,Berrien,019
+GA,171,Crosby Steen,Crosby,NA,Steen,NA,100,0,0,0,NA,State House District 171,Decatur,087
+GA,171,Joe Campbell,Joe,NA,Campbell,NA,100,1,0,0,NA,State House District 171,Decatur,087
+GA,172,"Charles ""Chas"" Cannon",Charles,Chas,Cannon,NA,100,1,0,0,NA,State House District 172,Colquitt,071
+GA,173,Darlene K. Taylor,Darlene,K.,Taylor,NA,100,1,0,0,NA,State House District 173,Thomas,275
+GA,173,Theresa Thomas,Theresa,NA,Thomas,NA,200,0,0,0,NA,State House District 173,Thomas,275
+GA,174,John Corbett,John,NA,Corbett,NA,100,1,0,0,NA,State House District 174,Clinch,065
+GA,175,Anissa Knight Wiseman,Anissa,Knight,Wiseman,NA,200,0,0,0,NA,State House District 175,Brooks,027
+GA,175,John Lahood,John,NA,Lahood,NA,100,1,0,0,NA,State House District 175,Brooks,027
+GA,176,James D. Burchett,James,D.,Burchett,NA,100,1,0,0,NA,State House District 176,Atkinson,003
+GA,177,Clay Griner,Clay,NA,Griner,NA,100,0,0,0,NA,State House District 177,Lowndes,185
+GA,177,Dexter Sharper,Dexter,NA,Sharper,NA,200,1,0,0,NA,State House District 177,Lowndes,185
+GA,178,Steven Meeks,Steven,NA,Meeks,NA,100,1,0,0,NA,State House District 178,Wayne,305
+GA,179,Rick Townsend,Rick,NA,Townsend,NA,100,1,0,0,NA,State House District 179,Glynn,127
+GA,180,David L. Rainer,David,L.,Rainer,NA,100,0,0,0,NA,State House District 180,Camden,039
+GA,180,Glenn Cook,Glenn,NA,Cook,NA,100,0,0,0,NA,State House District 180,Camden,039
+GA,180,Steven Sainz,Steven,NA,Sainz,NA,100,1,0,0,NA,State House District 180,Camden,039
+GA,180,Defonsio Daniels,Defonsio,NA,Daniels,NA,200,0,0,0,NA,State House District 180,Camden,039

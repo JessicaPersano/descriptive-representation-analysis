@@ -1,0 +1,76 @@
+state,statehouse_district_number,full_name,predicted_gender,predicted_race,race_binary,assigned_to
+MI,109,Karl Bohnak,male,White,White,Jessica
+MI,48,Tawn Beliger,female,Black,Non-White,Eddie
+GA,28,Brent Cox,male,White,White,Eddie
+MI,20,Hermon Barbe,male,White,White,Eddie
+MI,44,Jim Haadsma,male,White,White,Eddie
+MI,109,Burt Mason,male,White,White,Jolie
+GA,43,Solomon Adesanya,male,Black,Non-White,Eddie
+MI,78,Gina Johnsen,female,White,White,Eddie
+MI,92,Jerry Neyer,male,White,White,Jolie
+GA,56,Dawn Samad,female,Black,Non-White,Jessica
+MI,12,Kimberly Edwards,female,White,White,Jessica
+MI,7,Linda Rayburn,female,White,White,Jessica
+GA,47,"P. ""Phoebe"" Eckhardt",male,White,White,Jolie
+GA,57,Stacey Evans,female,Black,Non-White,Eddie
+GA,154,Gerald E. Greene,male,Black,Non-White,Jolie
+GA,84,Mary Margaret Oliver,female,White,White,Eddie
+NV,34,Brandon Davis,male,Black,Non-White,Eddie
+MI,23,Jason Morgan,male,White,White,Eddie
+GA,118,Clint Crowe,male,White,White,Jessica
+MI,77,Julie L DeRose,female,White,White,Jolie
+MI,56,Dave Kniffen,male,White,White,Eddie
+NV,21,Jon Petrick,male,White,White,Jessica
+MI,59,Jason Pulaski,male,White,White,Jolie
+GA,38,David Lawrence Wilkerson,male,White,White,Jessica
+GA,54,Betsy Holland,female,White,White,Eddie
+MI,20,Noah Arbit,male,White,White,Jolie
+MI,8,Chris Gilmer-Hill,male,Black,Non-White,Eddie
+NV,17,Linda F. Hunt,female,White,White,Jessica
+MI,88,Greg VanWoerkom,male,White,White,Jolie
+NV,17,Mishon D. Montgomery,male,Black,Non-White,Jolie
+GA,82,Karen I. Mathiak,female,Black,Non-White,Eddie
+MI,19,Kevin J Hammer,male,White,White,Eddie
+NV,42,Kevin L. Child,male,White,White,Jolie
+GA,18,Tyler Paul Smith,male,White,White,Jessica
+MI,103,Betsy Coffia,female,White,White,Eddie
+MI,55,Trevis Harrold,male,Black,Non-White,Jolie
+GA,42,Diane E. Jackson,female,Black,Non-White,Jessica
+GA,178,Steven Meeks,male,White,White,Jolie
+GA,24,Randye Dugan,female,White,White,Jessica
+GA,177,Dexter Sharper,male,Black,Non-White,Jolie
+GA,166,Jesse L. Petrea,male,White,White,Eddie
+MI,27,Frank A Tarnowski Jr,male,White,White,Jessica
+MI,55,Neil Oza,male,Asian,Non-White,Jolie
+GA,67,Kevin G. Smith,male,White,White,Jessica
+GA,145,Juawn Jackson,male,Black,Non-White,Jessica
+MI,10,Justin Counts,male,Black,Non-White,Jessica
+GA,48,Laura Murvartian,female,Black,Non-White,Eddie
+MI,104,Randy Bishop,male,White,White,Jessica
+GA,149,Ken Vance,male,White,White,Jolie
+MI,102,Kathy Pelleran-Mahoney,female,White,White,Eddie
+MI,92,Timothy Odykirk,male,White,White,Jessica
+GA,149,Floyd Griffin,male,Black,Non-White,Jolie
+GA,32,Chris Erwin,male,White,White,Jolie
+MI,94,Robert E Zelle,male,White,White,Jolie
+GA,21,Brad Thomas,male,White,White,Jolie
+MI,62,Michelle Levine-Woodman,female,White,White,Eddie
+MI,64,Ryan Maxon,male,White,White,Jolie
+MI,74,Tom Izzo,male,White,White,Jolie
+NV,15,Howard Watts,male,Black,Non-White,Jessica
+MI,18,Jason Hoskins,male,White,White,Jessica
+GA,69,Debra Bazemore,female,Black,Non-White,Jessica
+NV,41,Guadalupe Reyes,female,Hispanic,Non-White,Eddie
+NV,6,"Derek A. ""Bish"" Rimson",male,Black,Non-White,Jessica
+MI,57,Aisha Farooqi,female,Asian,Non-White,Eddie
+GA,36,Steven Lang,male,White,White,Jessica
+GA,144,Dale Washburn,male,White,White,Jessica
+GA,137,Carlton Mahone Sr,male,Black,Non-White,Jolie
+MI,83,Miguel Pilar,male,Hispanic,Non-White,Jolie
+MI,54,Shadia Martini,female,Other,Non-White,Eddie
+MI,43,Rachelle Smit,female,White,White,Jessica
+GA,96,Neva Thompson,female,Black,Non-White,Eddie
+NV,9,Adeline Celio,female,Hispanic,Non-White,Eddie
+GA,11,Rick Jasperse,male,White,White,Jolie
+MI,10,Veronica Paiz,female,Hispanic,Non-White,Jolie
+GA,168,Al Williams,male,Black,Non-White,Jessica

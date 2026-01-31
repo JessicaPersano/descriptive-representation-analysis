@@ -1,0 +1,43 @@
+# R project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Environment files with API keys (NEVER commit these)
+.Renviron
+.env
+
+# R package management
+renv/library/
+renv/staging/
+renv/python/
+renv/sandbox/
+
+# Compiled files
+*.o
+*.so
+*.dll
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Large files that shouldn't be in version control (optional - uncomment if needed)
+# *.pdf
+# *.png
