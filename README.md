@@ -111,8 +111,8 @@ The analysis produces:
 ## Authors
 
 - Jessica Persano
-- Eddie
-- Jolie
+- Xuanting Fan
+- Jolie Anderson
 
 ## License
 
