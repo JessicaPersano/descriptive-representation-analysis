@@ -4,7 +4,7 @@
 # Run this script once before running the analysis
 # to install all required packages.
 
-# List of required packages
+# List of required packages from CRAN
 required_packages <- c(
   # Core tidyverse packages
   "tidyverse",      # Includes dplyr, readr, ggplot2, tidyr, stringr, etc.
@@ -13,7 +13,7 @@ required_packages <- c(
   "here",           # Portable file paths that work across systems
 
   # Demographic prediction
-  "genderizeR",     # Gender prediction from first names (requires API key)
+  # NOTE: genderizeR is installed separately from GitHub (see below)
   "wru",            # Race prediction using BISG method
 
   # Census data access
@@ -46,9 +46,28 @@ install_if_missing <- function(packages) {
 # Install missing packages
 install_if_missing(required_packages)
 
+# ============================================
+# Install genderizeR from GitHub
+# ============================================
+# genderizeR was archived from CRAN but is still available on GitHub
+# This package is required for gender prediction from first names
+
+if (!requireNamespace("genderizeR", quietly = TRUE)) {
+  message("\nInstalling genderizeR from GitHub (archived from CRAN)...")
+  if (!requireNamespace("devtools", quietly = TRUE)) {
+    install.packages("devtools")
+  }
+  devtools::install_github("kalimu/genderizeR")
+} else {
+  message("genderizeR is already installed.")
+}
+
+# All packages to verify (including GitHub packages)
+all_packages <- c(required_packages, "genderizeR")
+
 # Load all packages to verify installation
 message("\nVerifying package installation...")
-for (pkg in required_packages) {
+for (pkg in all_packages) {
   if (require(pkg, character.only = TRUE, quietly = TRUE)) {
     message("  OK: ", pkg)
   } else {

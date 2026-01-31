@@ -31,11 +31,19 @@ PS170A/
 
 ### 1. Install Required R Packages
 
+The easiest way is to run the provided installation script:
+
 ```r
+source("install_packages.R")
+```
+
+Or install manually:
+
+```r
+# Install CRAN packages
 install.packages(c(
   "tidyverse",
   "here",
-  "genderizeR",
   "wru",
   "tidycensus",
   "sf",
@@ -43,9 +51,15 @@ install.packages(c(
   "readxl",
   "writexl",
   "modelsummary",
-  "modelr"
+  "modelr",
+  "devtools"
 ))
+
+# Install genderizeR from GitHub (archived from CRAN)
+devtools::install_github("kalimu/genderizeR")
 ```
+
+**Note:** The `genderizeR` package was archived from CRAN and must be installed from GitHub.
 
 ### 2. Configure API Keys
 
