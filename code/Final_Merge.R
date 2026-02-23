@@ -7,13 +7,13 @@ library(here)
 # -------------------------------
 
 # Load data using portable paths
-legislators <- read_csv(here("Data", "modified_data", "legislators_race_gender.csv"))
+legislators <- read_csv(here("data", "modified_data", "legislators_race_gender.csv"))
 # For full sample analysis, use: full_candidate_demographic_percentages.csv
 # For non-incumbent analysis, use: nonincumbent_candidate_demographic_percentages.csv
-candidates <- read_csv(here("Data", "modified_data", "nonincumbent_candidate_demographic_percentages.csv"))
+candidates <- read_csv(here("data", "modified_data", "nonincumbent_candidate_demographic_percentages.csv"))
 
-competitiveness <- read_csv(here("Data", "original_data", "district_competiveness.csv"))
-demographics <- read_csv(here("Data", "original_data", "district_demographics.csv"))
+competitiveness <- read_csv(here("data", "original_data", "district_competiveness.csv"))
+demographics <- read_csv(here("data", "original_data", "district_demographics.csv"))
 
 
 # -------------------------------
@@ -66,6 +66,6 @@ merged_data <- legislators_clean %>%
 # -------------------------------
 # Step 7: Export
 # -------------------------------
-# For full sample: write_csv(merged_data, here("Data", "modified_data", "full_merged_regression_dataset.csv"))
-write_csv(merged_data, here("Data", "modified_data", "nonincumbent_merged_regression_dataset.csv"))
+# For full sample: write_csv(merged_data, here("data", "modified_data", "full_merged_regression_dataset.csv"))
+write_csv(merged_data, here("data", "modified_data", "nonincumbent_merged_regression_dataset.csv"))
 

@@ -21,8 +21,8 @@ library(here)
 rm(list = ls())
 
 # Load cleaned legislator and candidate datasets using portable paths
-legislators <- read_csv(here("Data", "modified_data", "legislators_with_county.csv"))
-candidates <- read_csv(here("Data", "modified_data", "candidates_with_county.csv"))
+legislators <- read_csv(here("data", "modified_data", "legislators_with_county.csv"))
+candidates <- read_csv(here("data", "modified_data", "candidates_with_county.csv"))
 
 # ----------------------------
 # Step 3: Predict Gender with genderize.io API
@@ -69,8 +69,8 @@ candidates <- candidates %>%
   left_join(cand_gender, by = c("first_name" = "name"))
 
 # Save the updated files with gender predictions added
-write_csv(legislators, here("Data", "modified_data", "legislators_with_gender.csv"))
-write_csv(candidates, here("Data", "modified_data", "candidates_with_gender.csv"))
+write_csv(legislators, here("data", "modified_data", "legislators_with_gender.csv"))
+write_csv(candidates, here("data", "modified_data", "candidates_with_gender.csv"))
 
 # ----------------------------
 # Step 3: Optional Diagnostics for Gender Predictions
@@ -88,8 +88,8 @@ setdiff(unique(candidates$first_name), cand_gender$name)
 # ----------------------------
 
 # Reload datasets with gender already included
-leg_with_gender <- read_csv(here("Data", "modified_data", "legislators_with_gender.csv"))
-cand_with_gender <- read_csv(here("Data", "modified_data", "candidates_with_gender.csv"))
+leg_with_gender <- read_csv(here("data", "modified_data", "legislators_with_gender.csv"))
+cand_with_gender <- read_csv(here("data", "modified_data", "candidates_with_gender.csv"))
 
 # Format data for WRU: clean and rename key fields
 prepare_for_bisg <- function(df) {
@@ -202,5 +202,5 @@ if (nrow(missing_cand_race) > 0) {
 # ----------------------------
 
 # Save cleaned, merged datasets with final race and gender assignments
-write_csv(legislator_race_gender, here("Data", "modified_data", "legislators_race_gender.csv"))
-write_csv(candidate_race_gender, here("Data", "modified_data", "candidates_race_gender.csv"))
+write_csv(legislator_race_gender, here("data", "modified_data", "legislators_race_gender.csv"))
+write_csv(candidate_race_gender, here("data", "modified_data", "candidates_race_gender.csv"))

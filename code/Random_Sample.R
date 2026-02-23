@@ -4,8 +4,8 @@ library(readr)
 library(here)
 
 # Load cleaned legislator and candidate datasets using portable paths
-legislators <- read_csv(here("Data", "modified_data", "legislators_race_gender.csv"))
-candidates <- read_csv(here("Data", "modified_data", "candidates_race_gender.csv"))
+legislators <- read_csv(here("data", "modified_data", "legislators_race_gender.csv"))
+candidates <- read_csv(here("data", "modified_data", "candidates_race_gender.csv"))
 
 # Set seed for reproducibility
 set.seed(2025)
@@ -42,5 +42,5 @@ legislators_sample <- legislator_race_gender %>%
   )
 
 # Export to CSVs
-write_csv(candidates_sample, here("Data", "modified_data", "candidates_random_validation.csv"))
-write_csv(legislators_sample, here("Data", "modified_data", "legislators_random_validation.csv"))
+write_csv(candidates_sample, here("data", "modified_data", "candidates_random_validation.csv"))
+write_csv(legislators_sample, here("data", "modified_data", "legislators_random_validation.csv"))

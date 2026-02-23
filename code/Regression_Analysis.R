@@ -12,8 +12,8 @@ rm(list = ls())
 # -------------------------------
 # Load Input Data
 # -------------------------------
-full_data <- read_csv(here("Data", "modified_data", "full_merged_regression_dataset.csv"))
-noninc_data <- read_csv(here("Data", "modified_data", "nonincumbent_merged_regression_dataset.csv"))
+full_data <- read_csv(here("data", "modified_data", "full_merged_regression_dataset.csv"))
+noninc_data <- read_csv(here("data", "modified_data", "nonincumbent_merged_regression_dataset.csv"))
 
 # -------------------------------
 # FULL SAMPLE ANALYSIS
@@ -43,8 +43,8 @@ p2_full <- ggplot(full_data, aes(x = woman_legislator_2022, y = women_candidates
     y = "Proportion of Women Candidates in 2024"
   )
 
-ggsave(here("Data", "results", "plot_full_nonwhite_legislator.png"), plot = p1_full, width = 7, height = 5)
-ggsave(here("Data", "results", "plot_full_woman_legislator.png"), plot = p2_full, width = 7, height = 5)
+ggsave(here("results", "plot_full_nonwhite_legislator.png"), plot = p1_full, width = 7, height = 5)
+ggsave(here("results", "plot_full_woman_legislator.png"), plot = p2_full, width = 7, height = 5)
 
 # Table
 modelsummary(
@@ -64,7 +64,7 @@ modelsummary(
   stars = TRUE,
   statistic = "std.error",
   gof_omit = "IC|Log",
-  output = here("Data", "results", "regression_table_full.html"),
+  output = here("results", "regression_table_full.html"),
   title = "Effect of 2022 Legislator Diversity on 2024 Candidate Pool - Full Sample"
 )
 
@@ -96,8 +96,8 @@ p2_noninc <- ggplot(noninc_data, aes(x = woman_legislator_2022, y = women_candid
     y = "Proportion of Women Candidates in 2024"
   )
 
-ggsave(here("Data", "results", "plot_noninc_nonwhite_legislator.png"), plot = p1_noninc, width = 7, height = 5)
-ggsave(here("Data", "results", "plot_noninc_woman_legislator.png"), plot = p2_noninc, width = 7, height = 5)
+ggsave(here("results", "plot_noninc_nonwhite_legislator.png"), plot = p1_noninc, width = 7, height = 5)
+ggsave(here("results", "plot_noninc_woman_legislator.png"), plot = p2_noninc, width = 7, height = 5)
 
 # Table
 modelsummary(
@@ -117,6 +117,6 @@ modelsummary(
   stars = TRUE,
   statistic = "std.error",
   gof_omit = "IC|Log",
-  output = here("Data", "results", "regression_table_nonincumbent.html"),
+  output = here("results", "regression_table_nonincumbent.html"),
   title = "Effect of 2022 Legislator Diversity on 2024 Candidate Pool - Non-Incumbent Sample"
 )

@@ -30,8 +30,8 @@ options(tigris_use_cache = TRUE)
 # -----------------------------
 
 # Load the legislator and candidate data using portable paths
-legislators <- read_csv(here("Data", "original_data", "legislator_data.csv"))
-candidates <- read_csv(here("Data", "original_data", "candidate_data.csv"))
+legislators <- read_csv(here("data", "original_data", "legislator_data.csv"))
+candidates <- read_csv(here("data", "original_data", "candidate_data.csv"))
 
 # Define a helper function to format district names consistently
 format_district_name <- function(df) {
@@ -140,8 +140,8 @@ table(is.na(legislators_merged$county_fips))
 table(is.na(candidates_merged$county_fips))
 
 # Export merged datasets to the modified_data folder, dropping geography column
-write_csv(select(legislators_merged, -geometry), here("Data", "modified_data", "legislators_with_county.csv"))
-write_csv(select(candidates_merged, -geometry), here("Data", "modified_data", "candidates_with_county.csv"))
+write_csv(select(legislators_merged, -geometry), here("data", "modified_data", "legislators_with_county.csv"))
+write_csv(select(candidates_merged, -geometry), here("data", "modified_data", "candidates_with_county.csv"))
 
 # -----------------------------
 # Step 6: Check for 'Missed' Counties

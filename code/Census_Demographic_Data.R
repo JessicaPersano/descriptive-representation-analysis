@@ -70,5 +70,5 @@ combined_data <- combined_data %>%
   )
 
 # Export to CSV
-write.csv(combined_data, here("Data", "original_data", "district_demographics.csv"), row.names = FALSE)
+write.csv(combined_data, here("data", "original_data", "district_demographics.csv"), row.names = FALSE)
 

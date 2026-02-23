@@ -13,7 +13,7 @@ library(here)
 rm(list = ls())
 
 # Load final candidate datasets using portable paths
-candidates <- read_csv(here("Data", "modified_data", "candidates_race_gender.csv"))
+candidates <- read_csv(here("data", "modified_data", "candidates_race_gender.csv"))
 
 # ----------------------------
 # Step 3: Filter Out Incumbents and Create Binary Gender/Race
@@ -55,5 +55,5 @@ district_summary <- candidates %>%
 # ----------------------------
 # Step 5: Export Cleaned Summary
 # ----------------------------
-# For full sample: write_csv(district_summary, here("Data", "modified_data", "full_candidate_demographic_percentages.csv"))
-write_csv(district_summary, here("Data", "modified_data", "nonincumbent_candidate_demographic_percentages.csv"))
+# For full sample: write_csv(district_summary, here("data", "modified_data", "full_candidate_demographic_percentages.csv"))
+write_csv(district_summary, here("data", "modified_data", "nonincumbent_candidate_demographic_percentages.csv"))

@@ -10,7 +10,7 @@ Does electing legislators from underrepresented groups (women and non-white indi
 
 ```
 PS170A/
-├── R Code/                          # Analysis scripts (run in order)
+├── code/                            # Analysis scripts (run in order)
 │   ├── 1_County_FIPS_Extraction.R   # Assigns counties to districts
 │   ├── 2_Census_Demographic_Data.R  # Pulls district demographics from Census
 │   ├── 3_Race_Gender_Algorithm.R    # Predicts race/gender of candidates
@@ -18,10 +18,10 @@ PS170A/
 │   ├── 5_Final_Merge.R              # Merges all datasets
 │   ├── 6_Regression_Analysis.R      # Runs regression models
 │   └── Random_Sample.R              # Validation sampling
-├── Data/
+├── data/
 │   ├── original_data/               # Raw input data
-│   ├── modified_data/               # Processed intermediate files
-│   └── results/                     # Regression tables and plots
+│   └── modified_data/               # Processed intermediate files
+├── results/                         # Regression tables and plots
 ├── .Renviron.example                # Template for API keys
 ├── .gitignore                       # Git ignore rules
 └── README.md                        # This file
