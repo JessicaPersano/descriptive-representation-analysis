@@ -10,7 +10,7 @@ Does electing legislators from underrepresented groups (women and non-white indi
 
 ```
 PS170A/
-├── code/                                      # Analysis scripts (run in order)
+├── code/                                      
 │   ├── 1_County_FIPS_Extraction.R             # Assigns counties to districts
 │   ├── 2_Census_Demographic_Data.R            # Pulls district demographics from Census
 │   ├── 3_Race_Gender_Algorithm.R              # Predicts race/gender of candidates
@@ -21,7 +21,7 @@ PS170A/
 ├── data/
 │   ├── original_data/                         # Raw input data
 │   └── modified_data/                         # Processed intermediate files
-├── results/                                   # Regression tables and plots
+├── results/                                   
 │   ├── plot_full_nonwhite_legislator.png      # Race effects, full sample
 │   ├── plot_full_woman_legislator.png         # Gender effects, full sample
 │   ├── plot_noninc_nonwhite_legislator.png    # Race effects, non-incumbent sample
