@@ -22,12 +22,12 @@ PS170A/
 │   ├── original_data/                         # Raw input data
 │   └── modified_data/                         # Processed intermediate files
 ├── results/                                   # Regression tables and plots
-│   ├── plot_full_nonwhite_legislator.png
-│   ├── plot_full_woman_legislator.png
-│   ├── plot_noninc_nonwhite_legislator.png
-│   ├── plot_noninc_woman_legislator.png
-│   ├── regression_table_full.pdf
-│   ├── regression_table_nonincumbent.pdf      
+│   ├── plot_full_nonwhite_legislator.png      # Race effects, full sample
+│   ├── plot_full_woman_legislator.png         # Gender effects, full sample
+│   ├── plot_noninc_nonwhite_legislator.png    # Race effects, non-incumbent sample
+│   ├── plot_noninc_woman_legislator.png       # Gender effects, non-incumbent sample
+│   ├── regression_table_full.pdf              # Regression results, full sample
+│   ├── regression_table_nonincumbent.pdf      # Regression results, non-incumbent sample
 ├── .Renviron.example                          # Template for API keys
 └── PS170A_Descriptive_Representation.pdf      # Final paper (PDF)
 └── PS170A_Final_Poster.pdf                    # Final presentation (PDF)
