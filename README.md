@@ -10,22 +10,47 @@ Does electing legislators from underrepresented groups (women and non-white indi
 
 ```
 PS170A/
-├── code/                            # Analysis scripts (run in order)
-│   ├── 1_County_FIPS_Extraction.R   # Assigns counties to districts
-│   ├── 2_Census_Demographic_Data.R  # Pulls district demographics from Census
-│   ├── 3_Race_Gender_Algorithm.R    # Predicts race/gender of candidates
+├── code/                                      # Analysis scripts (run in order)
+│   ├── 1_County_FIPS_Extraction.R             # Assigns counties to districts
+│   ├── 2_Census_Demographic_Data.R            # Pulls district demographics from Census
+│   ├── 3_Race_Gender_Algorithm.R              # Predicts race/gender of candidates
 │   ├── 4_Candidate_Demographic_Percentages.R  # Aggregates candidate demographics
-│   ├── 5_Final_Merge.R              # Merges all datasets
-│   ├── 6_Regression_Analysis.R      # Runs regression models
-│   └── Random_Sample.R              # Validation sampling
+│   ├── 5_Final_Merge.R                        # Merges all datasets
+│   ├── 6_Regression_Analysis.R                # Runs regression models
+│   └── Random_Sample.R                        # Validation sampling
 ├── data/
-│   ├── original_data/               # Raw input data
-│   └── modified_data/               # Processed intermediate files
-├── results/                         # Regression tables and plots
-├── .Renviron.example                # Template for API keys
-├── .gitignore                       # Git ignore rules
-└── README.md                        # This file
+│   ├── original_data/                         # Raw input data
+│   └── modified_data/                         # Processed intermediate files
+├── results/                                   # Regression tables and plots
+│   ├── plot_full_nonwhite_legislator.png
+│   ├── plot_full_woman_legislator.png
+│   ├── plot_noninc_nonwhite_legislator.png
+│   ├── plot_noninc_woman_legislator.png
+│   ├── regression_table_full.pdf
+│   ├── regression_table_nonincumbent.pdf      
+├── .Renviron.example                          # Template for API keys
+└── PS170A_Descriptive_Representation.pdf      # Final paper (PDF)
+└── PS170A_Final_Poster.pdf                    # Final presentation (PDF)
+└── install_packages.R                         # R package installation script                                                      
+                              
 ```
+
+plot_full_nonwhite_legislator.png
+Reorganize project: rename folders to lowercase, move results to top …
+1 minute ago
+plot_full_woman_legislator.png
+Reorganize project: rename folders to lowercase, move results to top …
+1 minute ago
+plot_noninc_nonwhite_legislator.png
+Reorganize project: rename folders to lowercase, move results to top …
+1 minute ago
+plot_noninc_woman_legislator.png
+Reorganize project: rename folders to lowercase, move results to top …
+1 minute ago
+regression_table_full.pdf
+Reorganize project: rename folders to lowercase, move results to top …
+1 minute ago
+regression_table_nonincumbent.pdf
 
 ## Setup Instructions
 
